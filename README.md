@@ -2,12 +2,12 @@
 
 ## I'm a Developer , It-Consultant , Eternal Student!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning C#, Svelte, Azure, Lua and LÖVE2D
 - 🥅 2022 Goals: 
-  - 🎮 Learn Game Development (Love2D and Unreal/Unity)
+  - 🎮 Learn Game Development (Love2D, Unreal/Unity, Blender)
   - 💻 Become proficient with C#, Svelte and JavaScript
   - 🛸 Contribute more to Open Source projects
-- ⚡ Fun fact: I love to snowskate (ask me about it), snowboard, ski and play volleyball
+- ⚡ Fun fact: I love snowskate (ask me about it), snowboard, ski and play volleyball
 
 ## Connect with me:
 
@@ -49,7 +49,7 @@
 
 <img align="left" alt="MariaDB" width="35px" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" />
 <img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<!-- <img align="left" alt="Azure SQL Database" width="35px" src="" /> -->
+<img align="left" alt="Azure SQL Database" width="35px" src="https://code.benco.io/icon-collection/azure-docs/sql-database.svg" />
 <img align="left" alt="SQLite" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" />
 <img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
