@@ -33,7 +33,7 @@
 <br />
 <br />
 
-### Frameworks
+### Frameworks and Libraries
 
 <img align="left" alt="Vue" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="Laravel" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
@@ -41,6 +41,8 @@
 <img align="left" alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Svelte" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 <img align="left" alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Discord.js" width="35px" src="./img/discord.js.png" />
+
 
 <br />
 <br />
@@ -81,6 +83,7 @@
 <img align="left" alt="Power BI" width="35px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" />
 <img align="left" alt="Jira" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 <img align="left" alt="Trello" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+<img align="left" alt="IFTTT" width="35px" src="https://iconape.com/wp-content/files/xj/69963/svg/ifttt-1.svg" />
 
 <br />
 <br />
