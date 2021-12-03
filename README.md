@@ -76,6 +76,8 @@
 <img align="left" alt="GitLab" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 <img align="left" alt="Azure DevOps" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/azuredevops.svg" />
 <img align="left" alt="Azure" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+<img align="left" alt="Azure Data Factory" width="35px" src="https://code.benco.io/icon-collection/azure-docs/data-factory.svg" />
+<img align="left" alt="Azure Logic Apps" width="35px" src="https://code.benco.io/icon-collection/azure-docs/logic-apps.svg" />
 <img align="left" alt="Power BI" width="35px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" />
 <img align="left" alt="Jira" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 <img align="left" alt="Trello" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
