@@ -65,7 +65,7 @@
 <br />
 <br />
 
-### Databases and Storage
+### Databases
 
 <img align="left" alt="MariaDB" width="35px" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" />
 <img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
