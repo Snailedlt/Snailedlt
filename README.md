@@ -20,15 +20,33 @@
 
 ### Languages
 
-<img align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Kotlin" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-<img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="Lua" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-<img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<a href="https://programmerhumor.io/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/11/programmerhumor-io-java-memes-backend-memes-98d607643ca200e-608x703.jpg.webp"> 
+  <img align="left" alt="Java" title="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
+</a>
+<a href="https://pbs.twimg.com/media/EQf-wm_XUAEcbBq.jpg"> 
+  <img align="left" alt="Kotlin" title="Kotlin" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> 
+</a>
+<a href="https://programmerhumor.io/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/09/programmerhumor-io-java-memes-javascript-memes-0fd04525696ec49-608x925.png.webp"> 
+  <img align="left" alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+</a>
+<a href="https://programmerhumor.io/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/10/programmerhumor-io-programming-memes-frontend-memes-c590882db3f917d-608x728.jpg.webp"> 
+  <img align="left" alt="HTML5" title="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+</a>
+<a href="https://programmerhumor.io/programming-memes/java-bros-3/"> 
+  <img align="left" alt="C#" title="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+</a>
+<a href="https://programmerhumor.io/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/05/programmerhumor-io-614c5b412d-608x949.jpg.webp"> 
+  <img align="left" alt="PHP" title="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
+</a>
+<a href="https://miro.medium.com/max/1000/1*xi7ddfL9LpTH-pdY20Y_Cw.gif"> 
+  <img align="left" alt="CSS3" title="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
+</a>
+<a href="https://i.redd.it/t7mtabt8d5nz.jpg"> 
+  <img align="left" alt="Lua" title="Lua" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" /> 
+</a>
+<a href="https://i.redd.it/i0imk0ay05k21.jpg"> 
+  <img align="left" alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+</a>
 
 <br />
 <br />
