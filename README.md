@@ -7,6 +7,7 @@
   - 🎮 Learn Game Development (Love2D, Unreal/Unity, Blender)
   - 💻 Become proficient with C#, Svelte and JavaScript
   - 🛸 Contribute more to Open Source projects
+  - 📄 Create my own website and portfolio
 - ⚡ Fun fact: I love snowskate (ask me about it), snowboard, ski and play volleyball
 
 ## Connect with me:
