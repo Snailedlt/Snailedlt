@@ -99,7 +99,9 @@
 
 ---
 
-<img align="left" alt="Snailedlt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Snailedlt&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="Snailedlt's GitHub Contributions Graph" src="https://activity-graph.herokuapp.com/graph?username=Snailedlt&bg_color=0d1117&color=cacaca&line=22eded&point=00000000&area=true&area_color=22EDED&hide_border=true">
+
+<img align="left" alt="Snailedlt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Snailedlt&theme=react&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22eded&icon_color=22eded&text_color=cacaca&color=22eded&border_radius=0&count_private=true" />
 
 [linkedin]: https://www.linkedin.com/in/j%C3%B8rgen-kalsnes-hagen/
 
