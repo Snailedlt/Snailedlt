@@ -1,4 +1,4 @@
-### Hi there, I'm Jørgen - aka Snailedlt 👋 
+# Hi there, I'm Jørgen - aka Snailedlt 👋 
 
 ## I'm a Developer , It-Consultant and Eternal Student!!
 
@@ -10,11 +10,13 @@
   - 📄 Create my own website and portfolio
 - ⚡ Fun fact: I love snowskate (ask me about it), snowboard, ski and play volleyball
 
+---
 ## Connect with me:
 
 [<img align="left" alt="Snailedlt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <br />
+
 
 ## Skills
 **Languages, Frameworks and Databases are ordered by proficiency (highest to lowest)**
