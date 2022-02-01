@@ -18,10 +18,10 @@
 
 ### Languages
   [<img align="left" alt="Java" title="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> ][Java meme]
-  [<img align="left" alt="Kotlin" title="Kotlin" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />][Kotlin meme]
   [<img align="left" alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][JavaScript meme]
-  [<img align="left" alt="HTML5" title="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> ][HTML5 meme]
   [<img align="left" alt="C#" title="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> ][C# meme]
+  [<img align="left" alt="Kotlin" title="Kotlin" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />][Kotlin meme]
+  [<img align="left" alt="HTML5" title="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> ][HTML5 meme]
   [<img align="left" alt="PHP" title="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> ][PHP meme]
   [<img align="left" alt="CSS3" title="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> ][CSS3 meme]
   [<img align="left" alt="Lua" title="Lua" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" /> ][Lua meme]
@@ -32,11 +32,11 @@
 
 ### Frameworks and Libraries
 
+<img align="left" alt="Svelte" title="Svelte" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 <img align="left" alt="Vue" title="Vue" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="Laravel" title="Laravel" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-<img align="left" alt="Meteor" title="Meteor" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg" />
 <img align="left" alt="React" title="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Svelte" title="Svelte" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+<img align="left" alt="Meteor" title="Meteor" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg" />
 <img align="left" alt="Node.js" title="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Discord.js" title="Discord.js" width="35px" src="./img/discord.js.png" />
 
@@ -46,9 +46,9 @@
 
 ### Databases
 
+<img align="left" alt="Azure SQL Database" title="Azure SQL Database" width="35px" src="https://code.benco.io/icon-collection/azure-docs/sql-database.svg" />
 <img align="left" alt="MariaDB" title="MariaDB" width="35px" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Azure SQL Database" title="Azure SQL Database" width="35px" src="https://code.benco.io/icon-collection/azure-docs/sql-database.svg" />
 <img align="left" alt="SQLite" title="SQLite" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" />
 <img align="left" alt="MongoDB" title="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
@@ -79,6 +79,7 @@
 <img align="left" alt="Azure Logic Apps" title="Azure Logic Apps" width="35px" src="https://code.benco.io/icon-collection/azure-docs/logic-apps.svg" />
 <img align="left" alt="Power BI" title="Power BI" width="35px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" />
 <img align="left" alt="Jira" title="Jira" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+<img align="left" alt="Confluence" title="Confluence" width="35px" src="https://user-images.githubusercontent.com/43886029/151998342-890be029-d227-4835-9784-f11cc07f21c7.svg" />
 <img align="left" alt="Trello" title="Trello" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 <img align="left" alt="IFTTT" title="IFTTT" width="35px" src="https://iconape.com/wp-content/files/xj/69963/svg/ifttt-1.svg" />
 
