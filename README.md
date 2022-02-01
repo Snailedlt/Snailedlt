@@ -58,7 +58,7 @@
 ### IDE's and Code Editors
 
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Android Studio" title="Android Studio" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg" />
+<img align="left" alt="Android Studio" title="Android Studio" width="35px" src="https://user-images.githubusercontent.com/43886029/152007962-c2f1b99b-00fe-4da7-b01c-fee2749b5cc9.svg" />
 <img align="left" alt="WebStorm" title="WebStorm" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-svg-vector.svg" />
 <img align="left" alt="PHPStorm" title="PHPStorm" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/phpstorm-1-logo-svg-vector.svg" />
 <img align="left" alt="IntelliJ" title="IntelliJ" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-svg-vector.svg" />
