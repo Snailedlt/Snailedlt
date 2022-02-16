@@ -2,10 +2,10 @@
 
 ## I'm a Developer , It-Consultant and Eternal Student!!
 
-- 🌱 I’m currently learning C#, Svelte, Azure, Lua and LÖVE2D
+- 🌱 I’m currently learning C#, NodeJS, Svelte, Azure
 - 🥅 2022 Goals: 
   - 🎮 Learn Game Development (Love2D, Unreal/Unity, Blender)
-  - 💻 Become proficient with C#, Svelte and JavaScript
+  - 💻 Become proficient with C#, Svelte and NodeJS
   - 🛸 Contribute more to Open Source projects
   - 📄 Create my own website and portfolio
 - ⚡ Fun fact: I love to snowskate (ask me about it), snowboard, ski and play volleyball
