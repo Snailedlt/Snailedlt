@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning C#, NodeJS, Svelte, Azure
 - 🥅 2022 Goals: 
-  - 🎮 Learn Game Development (Love2D, Unreal/Unity, Blender)
+  - 🎮 Learn Game Development (Love2D, Unreal/Unity/Godot, Blender)
   - 💻 Become proficient with C#, Svelte and NodeJS
   - 🛸 Contribute more to Open Source projects
   - 📄 Create my own website and portfolio
