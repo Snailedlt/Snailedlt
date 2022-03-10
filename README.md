@@ -1,4 +1,4 @@
-# Hi there, I'm Jørgen - aka Snailedlt 👋 
+# Hi there, I'm Jørgen - aka Snailedlt 👋
 
 ## I'm a Developer , It-Consultant and Eternal Student!!
 
@@ -12,20 +12,22 @@
 
 ---
 
-
 ## Skills
+
 **Languages, Frameworks and Databases are ordered by proficiency (highest to lowest)**
 
 ### Languages
-  [<img align="left" alt="Java" title="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> ][Java meme]
+
+  [<img align="left" alt="Java" title="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />][Java meme]
   [<img align="left" alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][JavaScript meme]
-  [<img align="left" alt="C#" title="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> ][C# meme]
+  [<img align="left" alt="C#" title="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />][C# meme]
   [<img align="left" alt="Kotlin" title="Kotlin" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />][Kotlin meme]
-  [<img align="left" alt="HTML5" title="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> ][HTML5 meme]
-  [<img align="left" alt="PHP" title="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> ][PHP meme]
-  [<img align="left" alt="CSS3" title="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> ][CSS3 meme]
-  [<img align="left" alt="Lua" title="Lua" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" /> ][Lua meme]
-  [<img align="left" alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> ][Python meme]
+  [<img align="left" alt="HTML5" title="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />][HTML5 meme]
+  [<img align="left" alt="PHP" title="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />][PHP meme]
+  [<img align="left" alt="Groovy" title="Groovy" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" />][Groovy meme]
+  [<img align="left" alt="CSS3" title="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />][CSS3 meme]
+  [<img align="left" alt="Lua" title="Lua" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />][Lua meme]
+  [<img align="left" alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />][Python meme]
 
 <br />
 <br />
@@ -70,18 +72,20 @@
 
 ### Tools
 
-<img align="left" alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" title="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="GitLab" title="GitLab" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-<img align="left" alt="Azure DevOps" title="Azure DevOps" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/azuredevops.svg" />
-<img align="left" alt="Azure" title="Azure" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img align="left" alt="Azure Data Factory" title="Azure Data Factory" width="35px" src="https://code.benco.io/icon-collection/azure-docs/data-factory.svg" />
-<img align="left" alt="Azure Logic Apps" title="Azure Logic Apps" width="35px" src="https://code.benco.io/icon-collection/azure-docs/logic-apps.svg" />
-<img align="left" alt="Power BI" title="Power BI" width="35px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" />
-<img align="left" alt="Jira" title="Jira" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-<img align="left" alt="Confluence" title="Confluence" width="35px" src="https://user-images.githubusercontent.com/43886029/151998342-890be029-d227-4835-9784-f11cc07f21c7.svg" />
-<img align="left" alt="Trello" title="Trello" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-<img align="left" alt="IFTTT" title="IFTTT" width="35px" src="https://iconape.com/wp-content/files/xj/69963/svg/ifttt-1.svg" />
+[<img align="left" alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][Git meme]
+[<img align="left" alt="GitHub" title="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />][GitHub meme]
+[<img align="left" alt="GitLab" title="GitLab" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />][GitLab meme]
+[<img align="left" alt="BitBucket" title="BitBucket" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />][BitBucket meme]
+[<img align="left" alt="Azure DevOps" title="Azure DevOps" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/azuredevops.svg" />][Azure DevOps meme]
+[<img align="left" alt="Azure" title="Azure" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />][Azure meme]
+[<img align="left" alt="Azure Data Factory" title="Azure Data Factory" width="35px" src="https://code.benco.io/icon-collection/azure-docs/data-factory.svg" />][Azure Data Factory meme]
+[<img align="left" alt="Azure Logic Apps" title="Azure Logic Apps" width="35px" src="https://code.benco.io/icon-collection/azure-docs/logic-apps.svg" />][Azure Logic Apps meme]
+[<img align="left" alt="Power BI" title="Power BI" width="35px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" />][Power Bi meme]
+[<img align="left" alt="Jira" title="Jira" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />][Jira meme]
+[<img align="left" alt="Confluence" title="Confluence" width="35px" src="https://user-images.githubusercontent.com/43886029/151998342-890be029-d227-4835-9784-f11cc07f21c7.svg" />][Confluence meme]
+[<img align="left" alt="Trello" title="Trello" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />][Trello meme]
+[<img align="left" alt="IFTTT" title="IFTTT" width="35px" src="https://iconape.com/wp-content/files/xj/69963/svg/ifttt-1.svg" />][IFTTT meme]
+[<img align="left" alt="Jenkins" title="Jenkins" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />][Jenkins meme]
 
 <br />
 <br />
@@ -107,7 +111,10 @@
 
 [linkedin]: https://www.linkedin.com/in/j%C3%B8rgen-kalsnes-hagen/
 
-<!-- MEMES -->
+<!-- 
+  -- MEMES 
+  -->
+<!-- Programming Languages -->
 [Java meme]: https://programmerhumor.io/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/11/programmerhumor-io-java-memes-backend-memes-98d607643ca200e-608x703.jpg.webp
 [Kotlin meme]: https://pbs.twimg.com/media/EQf-wm_XUAEcbBq.jpg
 [JavaScript meme]: https://programmerhumor.io/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/09/programmerhumor-io-java-memes-javascript-memes-0fd04525696ec49-608x925.png.webp
@@ -117,3 +124,20 @@
 [CSS3 meme]: https://miro.medium.com/max/1000/1*xi7ddfL9LpTH-pdY20Y_Cw.gif
 [Lua meme]: https://i.redd.it/t7mtabt8d5nz.jpg
 [Python meme]: https://i.redd.it/i0imk0ay05k21.jpg
+[Groovy meme]: https://user-images.githubusercontent.com/43886029/157637452-84d3bad7-b57a-4afc-8eda-4adff65118a1.png
+
+<!-- Tools -->
+[Git meme]: https://user-images.githubusercontent.com/43886029/157639155-c14530f1-5795-4482-83cf-16809a7aed06.png
+[GitHub meme]: https://user-images.githubusercontent.com/43886029/157639602-23052518-3d3a-4f4b-a3b8-7fd289d544cf.png
+[GitLab meme]: https://user-images.githubusercontent.com/43886029/157641490-72fd1bfb-29d7-476f-84aa-5bb0c91e4122.png
+[BitBucket meme]: https://user-images.githubusercontent.com/43886029/157640660-8897dad3-9e14-4dad-beca-6b229bb73228.png
+[Azure meme]: https://user-images.githubusercontent.com/43886029/157645457-fdfc5c73-31d7-4282-98ae-8ca51ec748d9.png
+[Azure DevOps meme]: https://user-images.githubusercontent.com/43886029/157641850-86337eeb-a0b9-4a9a-900f-1ab0541e38bb.png
+[Azure Data Factory meme]: https://user-images.githubusercontent.com/43886029/157644242-298cafb3-688f-4425-bd14-e76b3147e32b.png
+[Azure Logic Apps meme]: https://user-images.githubusercontent.com/43886029/157645139-97761f51-09d5-4380-9a70-496c9aa8f575.png
+[Power Bi meme]: https://user-images.githubusercontent.com/43886029/157645773-37dc6d41-64d0-4fff-82a0-f4794d919baf.png
+[Jira meme]: https://preview.redd.it/a7598vzeco581.gif?width=480&format=mp4&s=a1fc2ebc9089936dbb1978f383f4a4f3c0e416db
+[Confluence meme]: https://user-images.githubusercontent.com/43886029/157646720-2486d4e0-6756-4b9d-b739-520366976d44.png
+[Trello meme]: https://user-images.githubusercontent.com/43886029/157647945-be64a8ed-a339-485a-9cd6-6bfcb8c0a521.png
+[IFTTT meme]: https://user-images.githubusercontent.com/43886029/157648557-4e2c54e0-b095-45fe-b4b2-c1b20637fd92.png
+[Jenkins meme]: https://user-images.githubusercontent.com/43886029/157637933-ab947763-6f73-4e78-8495-11f31d552d3f.png
