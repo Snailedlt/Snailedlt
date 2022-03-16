@@ -86,6 +86,7 @@
 [<img align="left" alt="Trello" title="Trello" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />][Trello meme]
 [<img align="left" alt="IFTTT" title="IFTTT" width="35px" src="https://iconape.com/wp-content/files/xj/69963/svg/ifttt-1.svg" />][IFTTT meme]
 [<img align="left" alt="Jenkins" title="Jenkins" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />][Jenkins meme]
+[<img align="left" alt="Maven" title="Maven" width="35px" src="https://user-images.githubusercontent.com/43886029/158700244-8b9a5dd1-53e8-4ea5-a0d5-3727094a35d6.svg" />][Maven meme]
 
 <br />
 <br />
@@ -141,3 +142,5 @@
 [Trello meme]: https://user-images.githubusercontent.com/43886029/157647945-be64a8ed-a339-485a-9cd6-6bfcb8c0a521.png
 [IFTTT meme]: https://user-images.githubusercontent.com/43886029/157648557-4e2c54e0-b095-45fe-b4b2-c1b20637fd92.png
 [Jenkins meme]: https://user-images.githubusercontent.com/43886029/157637933-ab947763-6f73-4e78-8495-11f31d552d3f.png
+[Maven meme]: ![image](https://user-images.githubusercontent.com/43886029/158696683-d101dea1-ab00-47b4-8020-e43ce3920534.png)
+
