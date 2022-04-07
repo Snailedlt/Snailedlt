@@ -28,6 +28,7 @@
   [<img align="left" alt="CSS3" title="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />][CSS3 meme]
   [<img align="left" alt="Lua" title="Lua" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />][Lua meme]
   [<img align="left" alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />][Python meme]
+  [<img align="left" alt="Bash" title="Bash" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />][Bash meme]
 
 <br />
 <br />
@@ -126,6 +127,8 @@
 [Lua meme]: https://i.redd.it/t7mtabt8d5nz.jpg
 [Python meme]: https://i.redd.it/i0imk0ay05k21.jpg
 [Groovy meme]: https://user-images.githubusercontent.com/43886029/157637452-84d3bad7-b57a-4afc-8eda-4adff65118a1.png
+[Bash meme]: https://user-images.githubusercontent.com/43886029/162264202-9aee70cd-b119-483e-be1e-aab89985670f.png
+
 
 <!-- Tools -->
 [Git meme]: https://user-images.githubusercontent.com/43886029/157639155-c14530f1-5795-4482-83cf-16809a7aed06.png
