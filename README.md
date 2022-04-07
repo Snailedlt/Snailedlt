@@ -51,7 +51,7 @@
 <img align="left" alt="Azure SQL Database" title="Azure SQL Database" width="35px" src="https://code.benco.io/icon-collection/azure-docs/sql-database.svg" />
 <img align="left" alt="MariaDB" title="MariaDB" width="35px" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="SQLite" title="SQLite" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" />
+<img align="left" alt="SQLite" title="SQLite" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="MongoDB" title="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
 <br />
@@ -60,7 +60,7 @@
 ### IDE's and Code Editors
 
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Android Studio" title="Android Studio" width="35px" src="https://user-images.githubusercontent.com/43886029/152007962-c2f1b99b-00fe-4da7-b01c-fee2749b5cc9.svg" />
+<img align="left" alt="Android Studio" title="Android Studio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="WebStorm" title="WebStorm" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-svg-vector.svg" />
 <img align="left" alt="PHPStorm" title="PHPStorm" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/phpstorm-1-logo-svg-vector.svg" />
 <img align="left" alt="IntelliJ" title="IntelliJ" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-svg-vector.svg" />
@@ -82,9 +82,9 @@
 [<img align="left" alt="Azure Logic Apps" title="Azure Logic Apps" width="35px" src="https://code.benco.io/icon-collection/azure-docs/logic-apps.svg" />][Azure Logic Apps meme]
 [<img align="left" alt="Power BI" title="Power BI" width="35px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" />][Power Bi meme]
 [<img align="left" alt="Jira" title="Jira" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />][Jira meme]
-[<img align="left" alt="Confluence" title="Confluence" width="35px" src="https://user-images.githubusercontent.com/43886029/151998342-890be029-d227-4835-9784-f11cc07f21c7.svg" />][Confluence meme]
+[<img align="left" alt="Confluence" title="Confluence" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />][Confluence meme]
 [<img align="left" alt="Trello" title="Trello" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />][Trello meme]
-[<img align="left" alt="IFTTT" title="IFTTT" width="35px" src="https://iconape.com/wp-content/files/xj/69963/svg/ifttt-1.svg" />][IFTTT meme]
+[<img align="left" alt="IFTTT" title="IFTTT" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ifttt/ifttt-original.svg" />][IFTTT meme]
 [<img align="left" alt="Jenkins" title="Jenkins" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />][Jenkins meme]
 [<img align="left" alt="Maven" title="Maven" width="35px" src="https://user-images.githubusercontent.com/43886029/158700244-8b9a5dd1-53e8-4ea5-a0d5-3727094a35d6.svg" />][Maven meme]
 
