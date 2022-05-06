@@ -1,6 +1,8 @@
 # Hi there, I'm Jørgen - aka Snailedlt 👋
 
-## I'm a Developer , It-Consultant and Eternal Student!!
+*I'm a Developer , It-Consultant and Eternal Student!!*
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 - 🌱 I’m currently learning C#, NodeJS, Svelte, Azure
 - 🥅 2022 Goals: 
@@ -10,7 +12,8 @@
   - 📄 Create my own website and portfolio
 - ⚡ Fun fact: I love to snowskate (ask me about it), snowboard, ski and play volleyball
 
----
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## Skills
 
@@ -30,8 +33,8 @@
   [<img align="left" alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />][Python meme]
   [<img align="left" alt="Bash" title="Bash" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />][Bash meme]
 
-<br />
-<br />
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ### Frameworks and Libraries
 
@@ -44,8 +47,8 @@
 <img align="left" alt="Meteor" title="Meteor" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg" />
 
 
-<br />
-<br />
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ### Databases
 
@@ -55,8 +58,8 @@
 <img align="left" alt="SQLite" title="SQLite" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="MongoDB" title="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
-<br />
-<br />
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ### IDE's and Code Editors
 
@@ -68,8 +71,8 @@
 <img align="left" alt="Netbeans" title="Netbeans" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
 <img align="left" alt="Visual Studio" title="Visual Studio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 
-<br />
-<br />
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ### Tools
 
@@ -89,8 +92,8 @@
 [<img align="left" alt="Jenkins" title="Jenkins" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />][Jenkins meme]
 [<img align="left" alt="Maven" title="Maven" width="35px" src="https://user-images.githubusercontent.com/43886029/158700244-8b9a5dd1-53e8-4ea5-a0d5-3727094a35d6.svg" />][Maven meme]
 
-<br />
-<br />
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ### Operating Systems
 
@@ -98,17 +101,12 @@
 <img align="left" alt="Linux" title="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Ubuntu" title="Ubuntu" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 
-<br />
-<br />
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+<img align="left" width="100%" alt="Snailedlt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Snailedlt&&theme=react-dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22eded&icon_color=22eded&text_color=cacaca&color=22eded&border_radius=0&count_private=true" />
+<img align="left" width="100%" alt="Snailedlt's GitHub Contributions Graph" src="https://activity-graph.herokuapp.com/graph?username=Snailedlt&theme=react-dark&bg_color=0d1117&color=22eded&line=22eded&point=00000000&area=true&area_color=22EDED&hide_border=true&custom_title=Contributions">
 
----
-
-<details>
-  <summary>GitHub Stats</summary>
-  <img align="left" width="100%" alt="Snailedlt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Snailedlt&&theme=react-dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22eded&icon_color=22eded&text_color=cacaca&color=22eded&border_radius=0&count_private=true" />
-  <img align="left" width="100%" alt="Snailedlt's GitHub Contributions Graph" src="https://activity-graph.herokuapp.com/graph?username=Snailedlt&theme=react-dark&bg_color=0d1117&color=22eded&line=22eded&point=00000000&area=true&area_color=22EDED&hide_border=true&custom_title=Contributions">
-</details>
 
 
 [linkedin]: https://www.linkedin.com/in/j%C3%B8rgen-kalsnes-hagen/
