@@ -4,13 +4,13 @@
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-- 🌱 I’m currently learning C#, NodeJS, Svelte, Azure
+- 🌱 I’m currently learning C#, NodeJS, Svelte, Azure. I'm also going back to the basics with HTML, CSS, Python and Bash scripting.
 - 🥅 2022 Goals: 
   - 🎮 Learn Game Development (Love2D, Unreal/Unity/Godot, Blender)
   - 💻 Become proficient with C#, Svelte and NodeJS
   - 🛸 Contribute more to Open Source projects
   - 📄 Create my own website and portfolio
-- ⚡ Fun fact: I love to snowskate (ask me about it), snowboard, ski and play volleyball
+- ⚡ Fun fact: I love to snowskating (ask me about it), snowboarding, skiing and playing volleyball
 
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
