@@ -15,6 +15,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+<details>
+  <summary>Skills </summary>
+  
 ## Skills
 
 **Languages, Frameworks and Databases are ordered by proficiency (highest to lowest)**
@@ -104,9 +107,13 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+</details>
+
+<details>
+  <summary>GitHub Stats</summary>
 <img align="left" width="100%" alt="Snailedlt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Snailedlt&&theme=react-dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22eded&icon_color=22eded&text_color=cacaca&color=22eded&border_radius=0&count_private=true" />
 <img align="left" width="100%" alt="Snailedlt's GitHub Contributions Graph" src="https://activity-graph.herokuapp.com/graph?username=Snailedlt&theme=react-dark&bg_color=0d1117&color=22eded&line=22eded&point=00000000&area=true&area_color=22EDED&hide_border=true&custom_title=Contributions">
-
+</details>
 
 
 [linkedin]: https://www.linkedin.com/in/j%C3%B8rgen-kalsnes-hagen/
@@ -127,7 +134,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [Groovy meme]: https://user-images.githubusercontent.com/43886029/157637452-84d3bad7-b57a-4afc-8eda-4adff65118a1.png
 [Bash meme]: https://user-images.githubusercontent.com/43886029/162264202-9aee70cd-b119-483e-be1e-aab89985670f.png
 
-
 <!-- Tools -->
 [Git meme]: https://user-images.githubusercontent.com/43886029/157639155-c14530f1-5795-4482-83cf-16809a7aed06.png
 [GitHub meme]: https://user-images.githubusercontent.com/43886029/157639602-23052518-3d3a-4f4b-a3b8-7fd289d544cf.png
@@ -143,5 +149,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [Trello meme]: https://user-images.githubusercontent.com/43886029/157647945-be64a8ed-a339-485a-9cd6-6bfcb8c0a521.png
 [IFTTT meme]: https://user-images.githubusercontent.com/43886029/157648557-4e2c54e0-b095-45fe-b4b2-c1b20637fd92.png
 [Jenkins meme]: https://user-images.githubusercontent.com/43886029/157637933-ab947763-6f73-4e78-8495-11f31d552d3f.png
-[Maven meme]: ![image](https://user-images.githubusercontent.com/43886029/158696683-d101dea1-ab00-47b4-8020-e43ce3920534.png)
+[Maven meme]: https://user-images.githubusercontent.com/43886029/158696683-d101dea1-ab00-47b4-8020-e43ce3920534.png
+
+
 
