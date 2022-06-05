@@ -4,7 +4,7 @@
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-- 🌱 I’m currently learning C#, NodeJS, Svelte, Azure. I'm also going back to the basics with HTML, CSS, Python and Bash scripting.
+- 🌱 I’m currently learning Groovy, Python and Bash scripting.
 - 🥅 2022 Goals: 
   - 🎮 Learn Game Development (Love2D, Unreal/Unity/Godot, Blender)
   - 💻 Become proficient with C#, Svelte and NodeJS
