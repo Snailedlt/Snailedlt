@@ -1,7 +1,7 @@
 # Hi there, I'm Jørgen - aka Snailedlt 👋
 
 *I'm a Developer , It-Consultant and Eternal Student!!*
-*I'm also a maintainer of the [SplitScreen-Me](https://github.com/SplitScreen-Me/) Github Organization
+*I'm also an admin and active maintainer of the [SplitScreen-Me](https://github.com/SplitScreen-Me/) GitHub Organization*
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
