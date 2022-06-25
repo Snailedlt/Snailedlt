@@ -1,6 +1,6 @@
 # Hi there, I'm Jørgen - aka Snailedlt 👋
 
-*I'm a Developer , It-Consultant and Eternal Student!!*
+**I'm a Software Developer , It-Consultant and Eternal Student!!**
 
 *I'm also an admin and active maintainer of the [SplitScreen-Me](https://github.com/SplitScreen-Me/) GitHub Organization*
 ![-----------------------------------------------------](
