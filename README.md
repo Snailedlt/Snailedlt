@@ -17,8 +17,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-[![wakatime](https://wakatime.com/badge/user/fb2deaf2-a62d-4d42-b52c-dde378e0955c.svg)](https://wakatime.com/@fb2deaf2-a62d-4d42-b52c-dde378e0955c)
-
 ## ⬇️ More info ⬇️
 <details>
   <summary>Skills </summary>
