@@ -128,13 +128,13 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-98-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-95-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 327 Contributions in the Year 2022
+> 🏆 329 Contributions in the Year 2022
  > 
 > 📦 366.3 kB Used in GitHub's Storage 
  > 
@@ -173,17 +173,17 @@ Sunday       57 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Python                   38 mins             █████████████████████░░░░   83.77% 
-XML                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.87% 
-XAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
+XML                      34 mins             ██████████████░░░░░░░░░░░   58.28% 
+YAML                     17 mins             ███████░░░░░░░░░░░░░░░░░░   30.74% 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.07% 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.77% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.0%
+VS Code                  58 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  46 mins             █████████████████████████   100.0%
+Windows                  58 mins             █████████████████████████   100.0%
 
 ```
 
@@ -204,7 +204,7 @@ Kotlin                   2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Snailedlt/Snailedlt/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/07/2022 13:28:17 UTC
+ Last Updated on 10/07/2022 12:23:53 UTC
 <!--END_SECTION:waka-->
 </details>
 
