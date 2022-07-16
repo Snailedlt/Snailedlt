@@ -2,7 +2,7 @@
 
 **I'm a Software Developer , It-Consultant and Eternal Student!!**
 
-*I'm also an admin and active maintainer of the [SplitScreen-Me](https://github.com/SplitScreen-Me/) GitHub Organization*
+*I'm also an admin and active maintainer of the [SplitScreen-Me](https://github.com/SplitScreen-Me/) GitHub Organization and an active maintainer of the [devicons](https://github.com/devicons/) GitHub Organization*
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
