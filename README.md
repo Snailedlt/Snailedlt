@@ -126,11 +126,11 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <summary><a href="https://github.com/anmol098/waka-readme-stats">WakaTime Stats</a></summary>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-100-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-91%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -204,7 +204,7 @@ Kotlin                   2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Snailedlt/Snailedlt/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/07/2022 12:29:03 UTC
+ Last Updated on 19/07/2022 13:15:06 UTC
 <!--END_SECTION:waka-->
 </details>
 
