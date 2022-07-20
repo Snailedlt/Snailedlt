@@ -126,7 +126,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <summary><a href="https://github.com/anmol098/waka-readme-stats">WakaTime Stats</a></summary>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-100-blue)
 
@@ -140,9 +140,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
  > 
 > 💼 Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 22 Public Repositories 
  > 
-> 🔑 4 Private Repositories  
+> 🔑 5 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -173,17 +173,17 @@ Sunday       57 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-JavaScript               15 mins             ████████░░░░░░░░░░░░░░░░░   32.33% 
-JSON                     13 mins             ███████░░░░░░░░░░░░░░░░░░   29.97% 
-YAML                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.86% 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.41%
+JSON                     1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   26.17% 
+JavaScript               56 mins             ██████░░░░░░░░░░░░░░░░░░░   23.93% 
+Svelte                   49 mins             █████░░░░░░░░░░░░░░░░░░░░   21.0% 
+Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.74% 
+TypeScript               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.32%
 
 🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.0%
+VS Code                  3 hrs 56 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  46 mins             █████████████████████████   100.0%
+Windows                  3 hrs 56 mins       █████████████████████████   100.0%
 
 ```
 
@@ -204,7 +204,7 @@ Kotlin                   2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Snailedlt/Snailedlt/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/07/2022 13:15:06 UTC
+ Last Updated on 20/07/2022 13:12:41 UTC
 <!--END_SECTION:waka-->
 </details>
 
