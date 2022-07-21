@@ -126,7 +126,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <summary><a href="https://github.com/anmol098/waka-readme-stats">WakaTime Stats</a></summary>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-100-blue)
 
@@ -173,17 +173,17 @@ Sunday       57 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-JSON                     1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   26.17% 
-JavaScript               56 mins             ██████░░░░░░░░░░░░░░░░░░░   23.93% 
-Svelte                   49 mins             █████░░░░░░░░░░░░░░░░░░░░   21.0% 
-Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.74% 
-TypeScript               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.32%
+JavaScript               1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   26.02% 
+JSON                     1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   24.34% 
+Svelte                   49 mins             █████░░░░░░░░░░░░░░░░░░░░   19.53% 
+TypeScript               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
+Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.99%
 
 🔥 Editors: 
-VS Code                  3 hrs 56 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 14 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 56 mins       █████████████████████████   100.0%
+Windows                  4 hrs 14 mins       █████████████████████████   100.0%
 
 ```
 
@@ -204,7 +204,7 @@ Kotlin                   2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Snailedlt/Snailedlt/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/07/2022 12:29:41 UTC
+ Last Updated on 21/07/2022 13:14:35 UTC
 <!--END_SECTION:waka-->
 </details>
 
