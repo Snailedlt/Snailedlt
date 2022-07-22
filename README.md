@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   - 💻 Become proficient with C#, Svelte and NodeJS
   - 🛸 Contribute more to Open Source projects
   - 📄 Create my own website and portfolio
-- ⚡ Fun fact: I love to snowskating (ask me about it), snowboarding, skiing and playing volleyball
+- ⚡ Fun fact: I love to snowskates (ask me about it), snowboarding, skiing and playing beach volleyball
 
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
