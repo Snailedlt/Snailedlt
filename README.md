@@ -126,9 +126,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <summary><a href="https://github.com/anmol098/waka-readme-stats">WakaTime Stats</a></summary>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58%20Thousand%20lines%20of%20code-blue)
 
@@ -173,17 +173,17 @@ Sunday       57 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-JSON                     2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.6% 
-TypeScript               2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.73% 
-JavaScript               1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   19.95% 
-Svelte                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.44% 
-Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.31%
+JSON                     2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.17% 
+TypeScript               2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   23.33% 
+JavaScript               1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   19.68% 
+Svelte                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22% 
+Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.2%
 
 🔥 Editors: 
-VS Code                  9 hrs 3 mins        █████████████████████████   100.0%
+VS Code                  9 hrs 12 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  9 hrs 3 mins        █████████████████████████   100.0%
+Windows                  9 hrs 12 mins       █████████████████████████   100.0%
 
 ```
 
@@ -204,7 +204,7 @@ Kotlin                   2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Snailedlt/Snailedlt/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/07/2022 13:34:02 UTC
+ Last Updated on 25/07/2022 12:31:29 UTC
 <!--END_SECTION:waka-->
 </details>
 
