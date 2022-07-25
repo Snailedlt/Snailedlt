@@ -84,7 +84,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [<img align="left" alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][Git meme]
 [<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/43886029/180790910-37fc43da-eb83-4db6-9079-469fe83be1d5.svg">
-  <img align="left" alt="GitHub" title="GitHub" width="35px"  src="https://raw.githubusercontent.com/stefanjudis/github-light-dark-image-example/main/light.png">
+  <img align="left" alt="GitHub" title="GitHub" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </picture>][GitHub meme]
 [<img align="left" alt="GitLab" title="GitLab" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />][GitLab meme]
 [<img align="left" alt="BitBucket" title="BitBucket" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />][BitBucket meme]
