@@ -128,6 +128,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <details>
   <summary><a href="https://github.com/anmol098/waka-readme-stats">WakaTime Stats</a></summary>
   
+  *Check out my [wakatime](https://wakatime.com/@Snailedlt) profile to see more stats*
+  
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2031%20mins-blue)
 
