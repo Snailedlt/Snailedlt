@@ -129,7 +129,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <summary><a href="https://github.com/anmol098/waka-readme-stats">WakaTime Stats</a></summary>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
@@ -137,7 +137,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 **🐱 My GitHub Data** 
 
-> 🏆 409 Contributions in the Year 2022
+> 🏆 412 Contributions in the Year 2022
  > 
 > 📦 366.4 kB Used in GitHub's Storage 
  > 
@@ -176,19 +176,19 @@ Sunday       57 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.65% 
-JSON                     2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   23.32% 
-JavaScript               1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.83% 
-Svelte                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.62% 
-XML                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.07%
+TypeScript               1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   24.72% 
+XML                      1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   24.41% 
+JSON                     1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   21.51% 
+JavaScript               59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
+Svelte                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.42%
 
 🔥 Editors: 
-VS Code                  8 hrs 53 mins       ████████████████████████░   99.47% 
-IntelliJ                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
+VS Code                  7 hrs 9 mins        ████████████████████████░   99.34% 
+IntelliJ                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66%
 
 💻 Operating System: 
-Windows                  8 hrs 47 mins       ████████████████████████░   98.26% 
-Linux                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74%
+Windows                  7 hrs 3 mins        ████████████████████████░   97.84% 
+Linux                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16%
 
 ```
 
@@ -209,7 +209,7 @@ Kotlin                   2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Snailedlt/Snailedlt/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/07/2022 13:19:05 UTC
+ Last Updated on 27/07/2022 12:31:06 UTC
 <!--END_SECTION:waka-->
 </details>
 
