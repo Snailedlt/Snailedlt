@@ -131,7 +131,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   *Check out my [wakatime](https://wakatime.com/@Snailedlt) profile to see more stats*
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
@@ -139,7 +139,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 **🐱 My GitHub Data** 
 
-> 🏆 431 Contributions in the Year 2022
+> 🏆 432 Contributions in the Year 2022
  > 
 > 📦 366.4 kB Used in GitHub's Storage 
  > 
@@ -178,20 +178,20 @@ Sunday       57 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Groovy                   5 hrs 58 mins       ██████████████░░░░░░░░░░░   56.32% 
-XML                      1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.9% 
-Bash                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.3% 
-YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.06% 
-Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
+Groovy                   5 hrs 58 mins       ██████████████░░░░░░░░░░░   57.16% 
+XML                      1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.9% 
+Bash                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.46% 
+YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.06%
 
 🔥 Editors: 
-IntelliJ                 5 hrs 58 mins       ██████████████░░░░░░░░░░░   56.32% 
-VS Code                  4 hrs 37 mins       ███████████░░░░░░░░░░░░░░   43.58% 
+IntelliJ                 5 hrs 58 mins       ██████████████░░░░░░░░░░░   57.16% 
+VS Code                  4 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   42.74% 
 Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 💻 Operating System: 
-Linux                    7 hrs 22 mins       █████████████████░░░░░░░░   69.47% 
-Windows                  3 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   30.53%
+Linux                    7 hrs 22 mins       █████████████████░░░░░░░░   70.5% 
+Windows                  3 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.5%
 
 ```
 
@@ -212,7 +212,7 @@ Kotlin                   2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Snailedlt/Snailedlt/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/07/2022 13:33:33 UTC
+ Last Updated on 01/08/2022 13:18:19 UTC
 <!--END_SECTION:waka-->
 </details>
 
