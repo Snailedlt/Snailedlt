@@ -133,13 +133,13 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 441 Contributions in the Year 2022
+> 🏆 451 Contributions in the Year 2022
  > 
 > 📦 366.4 kB Used in GitHub's Storage 
  > 
@@ -178,17 +178,17 @@ Sunday       57 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Groovy                   11 hrs 4 mins       ████████████████████████░   97.73% 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.02% 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24% 
+Groovy                   12 hrs 10 mins      ████████████████████████░   98.75% 
+Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04% 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-IntelliJ                 11 hrs 4 mins       ████████████████████████░   97.74% 
-VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26%
+IntelliJ                 12 hrs 10 mins      ████████████████████████░   98.69% 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31%
 
 💻 Operating System: 
-Linux                    11 hrs 20 mins      █████████████████████████   100.0%
+Linux                    12 hrs 15 mins      █████████████████████████   100.0%
 
 ```
 
@@ -209,7 +209,7 @@ Kotlin                   2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Snailedlt/Snailedlt/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/08/2022 13:15:43 UTC
+ Last Updated on 06/08/2022 12:57:25 UTC
 <!--END_SECTION:waka-->
 </details>
 
