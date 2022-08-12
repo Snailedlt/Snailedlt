@@ -17,3 +17,8 @@ jobs:
           SHOW_UPDATED_DATE: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROJECTS: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LANGUAGE: "False"
+          SHOW_OS: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_TIMEZONE: "False"
