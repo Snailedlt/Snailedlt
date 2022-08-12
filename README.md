@@ -1,8 +1,11 @@
 # Hi there, I'm Jørgen - aka Snailedlt 👋
 
-**I'm a Software Developer , It-Consultant and Eternal Student!!**
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+**ABOUT ME**
+
+I'm a Software Developer , It-Consultant and Eternal Student!
 - 🌱 I’m currently learning Groovy, Python and Bash scripting.
 - 🥅 2022 Goals: 
   - [ ] 🎮 Learn Game Development (Love2D, Unreal/Unity/Godot, Blender)
@@ -11,11 +14,17 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   - [ ] 📄 Create my own website and portfolio
 - ⚡ Fun fact: I love to snowskates (ask me about it), snowboarding, skiing and playing beach volleyball
 
+**MY SOCIALS**
+
+[<img title="Linkedin" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][Linkedin]
+[<img title="StackOverflow" height=50px src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />][StackOverflow]
+[<img title="Pluralsight" height=50px src="https://user-images.githubusercontent.com/43886029/184349691-bc76017d-1548-4663-8aad-8c1415b99f27.svg" />][Pluralsight]
+
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <details>
-  <summary>Skills </summary>
+  <summary>MY SKILLS </summary>
 
 <div align="center"><i>Languages, Frameworks and Databases are ordered by proficiency (highest to lowest)</i><div/>
 
@@ -96,15 +105,12 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </details>
 
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>MY STATS</summary>  
+
+*Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more stats*
 <img align="left" width="100%" alt="Snailedlt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Snailedlt&&theme=react-dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22eded&icon_color=22eded&text_color=cacaca&color=22eded&border_radius=0&count_private=true" />
 <img align="left" width="100%" alt="Snailedlt's GitHub Contributions Graph" src="https://activity-graph.herokuapp.com/graph?username=Snailedlt&theme=react-dark&bg_color=0d1117&color=22eded&line=22eded&point=00000000&area=true&area_color=22EDED&hide_border=true&custom_title=Contributions">
-</details>
 
-<details>
-  <summary><a href="https://github.com/anmol098/waka-readme-stats">WakaTime Stats</a></summary>
-  
-  *Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more stats*
   
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%202%20mins-blue)
@@ -228,3 +234,8 @@ Kotlin                   2 repos             ██░░░░░░░░░�
 <!-- Game Development-->
 [Unity meme]: https://user-images.githubusercontent.com/43886029/169505596-37343310-b153-4e41-8f37-4cb6b48a48cf.png
 [LOVE2D meme]: https://user-images.githubusercontent.com/43886029/169507210-d0df3862-06e2-4fb7-b4ee-7a8b5318f1f9.png
+
+<!-- Socials links -->
+[Linkedin]: https://www.linkedin.com/in/jorgenkh/
+[Pluralsight]: https://app.pluralsight.com/profile/jorgenh
+[StackOverflow]: https://stackoverflow.com/users/12206312
