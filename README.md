@@ -1,5 +1,9 @@
 # Hi there, I'm Jørgen - aka Snailedlt 👋
 
+[<img title="Linkedin" height=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][Linkedin]
+[<img title="StackOverflow" height=35px src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />][StackOverflow]
+[<img title="Pluralsight" height=35px src="https://user-images.githubusercontent.com/43886029/184349691-bc76017d-1548-4663-8aad-8c1415b99f27.svg" />][Pluralsight]
+
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -13,12 +17,6 @@ I'm a Software Developer , It-Consultant and Eternal Student!
   - [x] 🛸 Contribute more to Open Source projects
   - [ ] 📄 Create my own website and portfolio
 - ⚡ Fun fact: I love to snowskates (ask me about it), snowboarding, skiing and playing beach volleyball
-
-**MY SOCIALS**
-
-[<img title="Linkedin" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][Linkedin]
-[<img title="StackOverflow" height=50px src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />][StackOverflow]
-[<img title="Pluralsight" height=50px src="https://user-images.githubusercontent.com/43886029/184349691-bc76017d-1548-4663-8aad-8c1415b99f27.svg" />][Pluralsight]
 
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
