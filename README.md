@@ -1,121 +1,97 @@
 # Hi there, I'm Jørgen - aka Snailedlt 👋
 
 **I'm a Software Developer , It-Consultant and Eternal Student!!**
-
-*I'm also an admin and active maintainer of the [SplitScreen-Me](https://github.com/SplitScreen-Me/) GitHub Organization and an active maintainer of the [devicons](https://github.com/devicons/) GitHub Organization*
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
 - 🌱 I’m currently learning Groovy, Python and Bash scripting.
 - 🥅 2022 Goals: 
-  - 🎮 Learn Game Development (Love2D, Unreal/Unity/Godot, Blender)
-  - 💻 Become proficient with C#, Svelte and NodeJS
-  - 🛸 Contribute more to Open Source projects
-  - 📄 Create my own website and portfolio
+  - [ ] 🎮 Learn Game Development (Love2D, Unreal/Unity/Godot, Blender)
+  - [ ] 💻 Become proficient with C#, Svelte and NodeJS
+  - [x] 🛸 Contribute more to Open Source projects
+  - [ ] 📄 Create my own website and portfolio
 - ⚡ Fun fact: I love to snowskates (ask me about it), snowboarding, skiing and playing beach volleyball
 
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## ⬇️ More info ⬇️
 <details>
   <summary>Skills </summary>
-  
-## Skills
 
-**Languages, Frameworks and Databases are ordered by proficiency (highest to lowest)**
+<div align="center"><i>Languages, Frameworks and Databases are ordered by proficiency (highest to lowest)</i><div/>
 
-### Languages
+<div align="center"><b>Languages</b><div/>
 
-  [<img align="left" alt="Java" title="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />][Java meme]
-  [<img align="left" alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][JavaScript meme]
-  [<img align="left" alt="C#" title="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />][C# meme]
-  [<img align="left" alt="Groovy" title="Groovy" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" />][Groovy meme]
-  [<img align="left" alt="Bash" title="Bash" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />][Bash meme]
-  [<img align="left" alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />][Python meme]
-  [<img align="left" alt="Kotlin" title="Kotlin" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />][Kotlin meme]
-  [<img align="left" alt="HTML5" title="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />][HTML5 meme]
-  [<img align="left" alt="PHP" title="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />][PHP meme]
-  [<img align="left" alt="CSS3" title="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />][CSS3 meme]
-  [<img align="left" alt="Lua" title="Lua" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />][Lua meme]
+[<img alt="Java" title="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />][Java meme]
+[<img alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][JavaScript meme]
+[<img alt="C#" title="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />][C# meme]
+[<img alt="Groovy" title="Groovy" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" />][Groovy meme]
+[<img alt="Bash" title="Bash" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />][Bash meme]
+[<img alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />][Python meme]
+[<img alt="Kotlin" title="Kotlin" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />][Kotlin meme]
+[<img alt="HTML5" title="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />][HTML5 meme]
+[<img alt="PHP" title="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />][PHP meme]
+[<img alt="CSS3" title="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />][CSS3 meme]
+[<img alt="Lua" title="Lua" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />][Lua meme]
 
-![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+<div align="center"><b>Frameworks and Libraries</b><div/>
 
-### Frameworks and Libraries
+<img alt="Svelte" title="Svelte" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+<img alt="Vue" title="Vue" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img alt="Laravel" title="Laravel" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+<img alt="Discord.js" title="Discord.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
+<img alt="Node.js" title="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img alt="React" title="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img alt="Meteor" title="Meteor" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg" />
 
-<img align="left" alt="Svelte" title="Svelte" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
-<img align="left" alt="Vue" title="Vue" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="Laravel" title="Laravel" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-<img align="left" alt="Discord.js" title="Discord.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
-<img align="left" alt="Node.js" title="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="React" title="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Meteor" title="Meteor" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg" />
+<div align="center"><b>Databases</b><div/>
 
-![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+<img alt="Azure SQL Database" title="Azure SQL Database" width="35px" src="https://code.benco.io/icon-collection/azure-docs/sql-database.svg" />
+<img alt="MariaDB" title="MariaDB" width="35px" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" />
+<img alt="MySQL" title="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img alt="SQLite" title="SQLite" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<img alt="MongoDB" title="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
-### Databases
+<div align="center"><b>IDE's and Code Editors</b><div/>
 
-<img align="left" alt="Azure SQL Database" title="Azure SQL Database" width="35px" src="https://code.benco.io/icon-collection/azure-docs/sql-database.svg" />
-<img align="left" alt="MariaDB" title="MariaDB" width="35px" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="SQLite" title="SQLite" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-<img align="left" alt="MongoDB" title="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img alt="Visual Studio Code" title="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img alt="Android Studio" title="Android Studio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+<img alt="WebStorm" title="WebStorm" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-svg-vector.svg" />
+<img alt="PHPStorm" title="PHPStorm" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/phpstorm-1-logo-svg-vector.svg" />
+<img alt="IntelliJ" title="IntelliJ" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-svg-vector.svg" />
+<img alt="Netbeans" title="Netbeans" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
+<img alt="Visual Studio" title="Visual Studio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 
-![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+<div align="center"><b>Tools</b><div/>
 
-### IDE's and Code Editors
-
-<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Android Studio" title="Android Studio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-<img align="left" alt="WebStorm" title="WebStorm" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-svg-vector.svg" />
-<img align="left" alt="PHPStorm" title="PHPStorm" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/phpstorm-1-logo-svg-vector.svg" />
-<img align="left" alt="IntelliJ" title="IntelliJ" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-svg-vector.svg" />
-<img align="left" alt="Netbeans" title="Netbeans" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
-<img align="left" alt="Visual Studio" title="Visual Studio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-
-![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-### Tools
-
-[<img align="left" alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][Git meme]
+[<img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][Git meme]
 [<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/43886029/180790910-37fc43da-eb83-4db6-9079-469fe83be1d5.svg">
-  <img align="left" alt="GitHub" title="GitHub" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img alt="GitHub" title="GitHub" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </picture>][GitHub meme]
-[<img align="left" alt="GitLab" title="GitLab" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />][GitLab meme]
-[<img align="left" alt="BitBucket" title="BitBucket" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />][BitBucket meme]
-[<img align="left" alt="Azure DevOps" title="Azure DevOps" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/azuredevops.svg" />][Azure DevOps meme]
-[<img align="left" alt="Azure" title="Azure" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />][Azure meme]
-[<img align="left" alt="Azure Data Factory" title="Azure Data Factory" width="35px" src="https://code.benco.io/icon-collection/azure-docs/data-factory.svg" />][Azure Data Factory meme]
-[<img align="left" alt="Azure Logic Apps" title="Azure Logic Apps" width="35px" src="https://code.benco.io/icon-collection/azure-docs/logic-apps.svg" />][Azure Logic Apps meme]
-[<img align="left" alt="Power BI" title="Power BI" width="35px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" />][Power Bi meme]
-[<img align="left" alt="Jira" title="Jira" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />][Jira meme]
-[<img align="left" alt="Confluence" title="Confluence" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />][Confluence meme]
-[<img align="left" alt="Trello" title="Trello" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />][Trello meme]
-[<img align="left" alt="IFTTT" title="IFTTT" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ifttt/ifttt-original.svg" />][IFTTT meme]
-[<img align="left" alt="Jenkins" title="Jenkins" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />][Jenkins meme]
-[<img align="left" alt="Maven" title="Maven" width="35px" src="https://user-images.githubusercontent.com/43886029/158700244-8b9a5dd1-53e8-4ea5-a0d5-3727094a35d6.svg" />][Maven meme]
+[<img alt="GitLab" title="GitLab" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />][GitLab meme]
+[<img alt="BitBucket" title="BitBucket" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />][BitBucket meme]
+[<img alt="Azure DevOps" title="Azure DevOps" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/azuredevops.svg" />][Azure DevOps meme]
+[<img alt="Azure" title="Azure" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />][Azure meme]
+[<img alt="Azure Data Factory" title="Azure Data Factory" width="35px" src="https://code.benco.io/icon-collection/azure-docs/data-factory.svg" />][Azure Data Factory meme]
+[<img alt="Azure Logic Apps" title="Azure Logic Apps" width="35px" src="https://code.benco.io/icon-collection/azure-docs/logic-apps.svg" />][Azure Logic Apps meme]
+[<img alt="Power BI" title="Power BI" width="35px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" />][Power Bi meme]
+[<img alt="Jira" title="Jira" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />][Jira meme]
+[<img alt="Confluence" title="Confluence" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />][Confluence meme]
+[<img alt="Trello" title="Trello" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />][Trello meme]
+[<img alt="IFTTT" title="IFTTT" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ifttt/ifttt-original.svg" />][IFTTT meme]
+[<img alt="Jenkins" title="Jenkins" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />][Jenkins meme]
+[<img alt="Maven" title="Maven" width="35px" src="https://user-images.githubusercontent.com/43886029/158700244-8b9a5dd1-53e8-4ea5-a0d5-3727094a35d6.svg" />][Maven meme]
 
-![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+<div align="center"><b>Operating Systems</b><div/>
 
-### Operating Systems
+<img alt="Windows 10" title="Windows 10" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg" />
+<img alt="Linux" title="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img alt="Ubuntu" title="Ubuntu" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 
-<img align="left" alt="Windows 10" title="Windows 10" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg" />
-<img align="left" alt="Linux" title="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Ubuntu" title="Ubuntu" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<div align="center"><b>Game Development</b><div/>
 
-![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-  
-### Game Development
-
-[<img float="left" alt="Unity" title="Unity" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />][Unity meme]
-[<img float="left" alt="LOVE2D" title="LOVE2D" width="35px" src="https://user-images.githubusercontent.com/43886029/169504610-658aacdf-ee9c-41f3-aad2-5eebaa3f5d26.png" />][LOVE2D meme]
+[<img alt="Unity" title="Unity" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />][Unity meme]
+[<img alt="LOVE2D" title="LOVE2D" width="35px" src="https://user-images.githubusercontent.com/43886029/169504610-658aacdf-ee9c-41f3-aad2-5eebaa3f5d26.png" />][LOVE2D meme]
 
 </details>
 
