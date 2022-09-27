@@ -19,7 +19,7 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_LANGUAGE: "True"
-          SHOW_OS: "False"
+          SHOW_OS: "True"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_TIMEZONE: "False"
           SHOW_LOC_CHART: "False"
