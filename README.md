@@ -4,6 +4,7 @@
 [<img title="StackOverflow" height=35px src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />][StackOverflow]
 [<img title="Pluralsight" height=35px src="https://user-images.githubusercontent.com/43886029/184349691-bc76017d-1548-4663-8aad-8c1415b99f27.svg" />][Pluralsight]
 [<img title="Codewars" height=35px src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" />][Codewars]
+[<img title="WakaTime" height=35px src="https://user-images.githubusercontent.com/43886029/193454699-4bd4e5d2-4dfb-4093-bd2a-35915fe0daf4.svg" />][WakaTime]
 
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
@@ -209,3 +210,4 @@ Windows                  14 hrs              ███████████�
 [Pluralsight]: https://app.pluralsight.com/profile/jorgenh
 [StackOverflow]: https://stackoverflow.com/users/12206312
 [Codewars]: https://www.codewars.com/users/Snailedlt
+[WakaTime]: https://wakatime.com/@Snailedlt
