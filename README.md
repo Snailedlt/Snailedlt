@@ -16,8 +16,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 **CONNECT WITH ME**
 
+[<img title="E-Mail" height=35px src="https://mailmeteor.com/logos/assets/SVG/Gmail_Logo.svg" />][Mail]
 [<img title="Linkedin" height=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][Linkedin]
-[<img title="Linkedin" height=35px src="https://mailmeteor.com/logos/assets/SVG/Gmail_Logo.svg" />][Mail]
 
 **MY OTHER PLATFORMS**
 
