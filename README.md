@@ -17,6 +17,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 **CONNECT WITH ME**
 
 [<img title="Linkedin" height=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][Linkedin]
+[<img title="Linkedin" height=35px src="https://mailmeteor.com/logos/assets/SVG/Gmail_Logo.svg" />][Mail]
 
 **MY OTHER PLATFORMS**
 
@@ -212,6 +213,7 @@ Windows                  12 hrs 56 mins      ███████████�
 
 <!-- Socials links -->
 [Linkedin]: https://www.linkedin.com/in/jorgenkh/
+[Mail]: mailto:jorgenkalsnes.hagen@gmail.com
 [Pluralsight]: https://app.pluralsight.com/profile/jorgenh
 [StackOverflow]: https://stackoverflow.com/users/12206312
 [Codewars]: https://www.codewars.com/users/Snailedlt
