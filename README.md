@@ -119,9 +119,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59%20Thousand%20lines%20of%20code-blue)
 
@@ -152,22 +152,22 @@ Sunday       59 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   42.47% 
-Svelte                   4 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   24.69% 
-Markdown                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.92% 
-Other                    1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.46% 
-TypeScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.74%
+Svelte                   8 hrs 10 mins       █████████████░░░░░░░░░░░░   52.2% 
+Python                   2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.33% 
+TypeScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   6.44% 
+JavaScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.08% 
+Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.99%
 
 🔥 Editors: 
-VS Code                  19 hrs 40 mins      █████████████████████████   100.0%
+VS Code                  15 hrs 39 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  19 hrs 40 mins      █████████████████████████   100.0%
+Windows                  15 hrs 39 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 11/11/2022 12:37:25 UTC
+ Last Updated on 12/11/2022 12:32:00 UTC
 <!--END_SECTION:waka-->
 </details>
 
