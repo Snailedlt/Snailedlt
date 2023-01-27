@@ -79,10 +79,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <div align="center"><b>Tools</b><div/>
 
 [<img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][Git meme]
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/43886029/180790910-37fc43da-eb83-4db6-9079-469fe83be1d5.svg">
-  <img alt="GitHub" title="GitHub" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</picture>][GitHub meme]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/43886029/180790910-37fc43da-eb83-4db6-9079-469fe83be1d5.svg"><img alt="GitHub" title="GitHub" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></picture>
+][GitHub meme]
 [<img alt="GitLab" title="GitLab" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />][GitLab meme]
 [<img alt="BitBucket" title="BitBucket" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />][BitBucket meme]
 [<img alt="Azure DevOps" title="Azure DevOps" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/azuredevops.svg" />][Azure DevOps meme]
@@ -94,7 +92,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [<img alt="Confluence" title="Confluence" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />][Confluence meme]
 [<img alt="Trello" title="Trello" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />][Trello meme]
 [<img alt="IFTTT" title="IFTTT" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ifttt/ifttt-original.svg" />][IFTTT meme]
-[<img alt="Jenkins" title="Jenkins" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />][Jenkins meme]
+[<img alt="Jenkins" title="Jenkins" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jenkins/jenkins-original.svg" />][Jenkins meme]
 [<img alt="Maven" title="Maven" width="35px" src="https://user-images.githubusercontent.com/43886029/158700244-8b9a5dd1-53e8-4ea5-a0d5-3727094a35d6.svg" />][Maven meme]
 
 <div align="center"><b>Operating Systems</b><div/>
