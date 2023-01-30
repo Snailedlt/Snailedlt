@@ -119,7 +119,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-432%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75%20Thousand%20lines%20of%20code-blue)
 
@@ -167,7 +167,7 @@ Windows                  8 hrs 28 mins       ███████████�
 ```
 
 
- Last Updated on 29/01/2023 12:27:22 UTC
+ Last Updated on 30/01/2023 12:30:34 UTC
 <!--END_SECTION:waka-->
 </details>
 
