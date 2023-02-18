@@ -117,11 +117,11 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </p>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-487%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -150,22 +150,22 @@ Sunday          62 commits       ███░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 58 mins       ████████████░░░░░░░░░░░░░   50.82 % 
-HTML                     6 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   39.69 % 
-JavaScript               1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+HTML                     5 hrs 42 mins       ████████████░░░░░░░░░░░░░   50.37 % 
+Python                   4 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.24 % 
+JavaScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 42 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 20 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 20 mins      █████████████████████████   100.00 % 
 
 ```
 
 
- Last Updated on 17/02/2023 12:26:06 UTC
+ Last Updated on 18/02/2023 12:23:53 UTC
 <!--END_SECTION:waka-->
 </details>
 
