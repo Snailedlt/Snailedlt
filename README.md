@@ -121,7 +121,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-487%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-496%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -151,7 +151,7 @@ Sunday          62 commits       ███░░░░░░░░░░░░�
 ```text
 💬 Programming Languages: 
 HTML                     5 hrs 42 mins       ████████████░░░░░░░░░░░░░   50.37 % 
-Python                   4 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.24 % 
+Python                   4 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.23 % 
 JavaScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
 CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
@@ -165,7 +165,7 @@ Windows                  11 hrs 20 mins      ███████████�
 ```
 
 
- Last Updated on 18/02/2023 12:23:53 UTC
+ Last Updated on 19/02/2023 12:24:11 UTC
 <!--END_SECTION:waka-->
 </details>
 
