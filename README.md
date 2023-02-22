@@ -4,12 +4,25 @@
 
 I'm a Software Developer , It-Consultant and Eternal Student!
 - 🌱 I’m currently learning Groovy, Python and Bash scripting.
-- 🥅 2022 Goals: 
-  - [ ] 🎮 Learn Game Development (Love2D, Unreal/Unity/Godot, Blender)
-  - [ ] 💻 Become proficient with C#, Svelte and NodeJS
-  - [x] 🛸 Contribute more to Open Source projects
-  - [ ] 📄 Create my own website and portfolio
 - ⚡ Fun fact: I love to snowskates (ask me about it), snowboarding, skiing and playing beach volleyball
+- 🥅 2023 Goals:
+  - [ ] 📄 Create my own website and portfolio
+  - [x] 💻 Learn Django
+  - [ ] 💻 Learn the basics of Rust
+  - [ ] 💻 Learn Sveltekit
+  - [ ] 🛸 Create at least one new open source project
+
+<details>
+  <summary>Previous goals</summary>
+  
+  - 🥅 2022 Goals: 
+    - [ ] 🎮 Learn Game Development (Love2D, Unreal/Unity/Godot, Blender)
+    - [ ] 💻 Become proficient with C#
+    - [x] 💻 Become proficient with Svelte and NodeJS
+    - [x] 🛸 Contribute more to Open Source projects
+    - [ ] 📄 Create my own website and portfolio
+  
+</details>
 
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
