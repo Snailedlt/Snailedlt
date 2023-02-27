@@ -133,7 +133,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </p>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
@@ -178,7 +178,7 @@ Windows                  14 hrs 43 mins      ███████████�
 ```
 
 
- Last Updated on 26/02/2023 12:25:50 UTC
+ Last Updated on 27/02/2023 12:29:58 UTC
 <!--END_SECTION:waka-->
 </details>
 
