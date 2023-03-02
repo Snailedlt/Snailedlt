@@ -52,7 +52,7 @@ I'm a Software Developer , It-Consultant and Eternal Student!
   </div>
 
   <div align="center"><h3>Languages</h3></div>
-  <table align="center" width="320px">
+  <table align="center" width="400px">
     <tbody>
       <tr valign="top">
         <td width="80px" align="center">
@@ -172,7 +172,7 @@ I'm a Software Developer , It-Consultant and Eternal Student!
   </table>
 
   <div align="center"><h3>Frameworks and Libraries</h3></div>
-  <table align="center" width="320px">
+  <table align="center" width="400px">
     <tbody>
       <tr valign="top">
         <td width="80px" align="center">
@@ -281,7 +281,7 @@ I'm a Software Developer , It-Consultant and Eternal Student!
   </table>
 
   <div align="center"><h3>Databases</h3></div>
-  <table align="center" width="320px">
+  <table align="center" width="400px">
     <tbody>
       <tr valign="top">
         <td width="80px" align="center">
@@ -344,7 +344,7 @@ I'm a Software Developer , It-Consultant and Eternal Student!
   </table>
 
   <div align="center"><h3>IDE's and Code Editors</h3></div>
-  <table align="center" width="320px">
+  <table align="center" width="400px">
     <tbody>
       <tr valign="top">
         <td width="80px" align="center">
@@ -423,7 +423,7 @@ I'm a Software Developer , It-Consultant and Eternal Student!
   </table>
 
   <div align="center"><h3>Tools</h3></div>
-  <table align="center" width="320px">
+  <table align="center" width="400px">
     <tbody>
       <tr valign="top">
         <td width="80px" align="center">
@@ -606,7 +606,7 @@ I'm a Software Developer , It-Consultant and Eternal Student!
   </table>
 
   <div align="center"><h3>Operating Systems</h3></div>
-  <table align="center" width="320px">
+  <table align="center" width="400px">
     <tbody>
       <tr valign="top">
         <td width="80px" align="center">
@@ -647,7 +647,7 @@ I'm a Software Developer , It-Consultant and Eternal Student!
   </table>
 
   <div align="center"><h3>Game Development</h3></div>
-  <table align="center" width="320px">
+  <table align="center" width="400px">
     <tbody>
       <tr valign="top">
         <td width="80px" align="center">
