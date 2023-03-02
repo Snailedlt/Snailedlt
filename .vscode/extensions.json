@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "vincaslt.highlight-matching-tag",
+    "formulahendry.auto-complete-tag",
+    "github.vscode-pull-request-github",
+    "esbenp.prettier-vscode",
+    "yzhang.markdown-all-in-one",
+    "bierner.markdown-preview-github-styles"
+  ]
+}
