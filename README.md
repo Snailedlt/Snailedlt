@@ -99,8 +99,6 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
           />
         </td>
-      </tr>
-      <tr valign="top">
         <td width="100rem" align="center">
           <span
             ><sup><b>C#</sup></b></span
@@ -112,6 +110,8 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
           />
         </td>
+      </tr>
+      <tr valign="top">
         <td width="80px" align="center">
           <span
             ><sup><b>Kotlin</sup></b></span
@@ -145,8 +145,6 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
           />
         </td>
-      </tr>
-      <tr valign="top">
         <td width="80px" align="center">
           <span
             ><sup><b>CSS3</sup></b></span
@@ -221,8 +219,6 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
           />
         </td>
-      </tr>
-      <tr valign="top">
         <td width="80px" align="center">
           <span
             ><sup><b>Discord.js</sup></b></span
@@ -234,6 +230,8 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg"
           />
         </td>
+      </tr>
+      <tr valign="top">
         <td width="80px" align="center">
           <span
             ><sup><b>Node.js</sup></b></span
@@ -267,8 +265,6 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
           />
         </td>
-      </tr>
-      <tr valign="top">
         <td width="80px" align="center">
           <span
             ><sup><b>Meteor</sup></b></span
@@ -332,8 +328,6 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
           />
         </td>
-      </tr>
-      <tr valign="top">
         <td width="80px" align="center">
           <span
             ><sup><b>MongoDB</sup></b></span
@@ -400,8 +394,6 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-svg-vector.svg"
           />
         </td>
-      </tr>
-      <tr valign="top">
         <td width="80px" align="center">
           <span
             ><sup><b>Netbeans</sup></b></span
@@ -413,6 +405,8 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"
           />
         </td>
+      </tr>
+      <tr valign="top">
         <td width="80px" align="center">
           <span
             ><sup><b>Visual Studio</sup></b></span
@@ -482,8 +476,6 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"
           />
         </td>
-      </tr>
-      <tr valign="top">
         <td width="80px" align="center">
           <span
             ><sup><b>Azure DevOps</sup></b></span
@@ -495,6 +487,8 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/azuredevops.svg"
           />
         </td>
+      </tr>
+      <tr valign="top">
         <td width="80px" align="center">
           <span
             ><sup><b>Azure</sup></b></span
@@ -528,8 +522,6 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             src="https://code.benco.io/icon-collection/azure-docs/logic-apps.svg"
           />
         </td>
-      </tr>
-      <tr valign="top">
         <td width="80px" align="center">
           <span
             ><sup><b>Power BI</sup></b></span
@@ -552,6 +544,8 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
           />
         </td>
+      </tr>
+      <tr valign="top">
         <td width="80px" align="center">
           <span
             ><sup><b>Confluence</sup></b></span
@@ -574,8 +568,6 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
           />
         </td>
-      </tr>
-      <tr valign="top">
         <td width="80px" align="center">
           <span
             ><sup><b>IFTTT</sup></b></span
