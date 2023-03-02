@@ -11,18 +11,18 @@ I'm a Software Developer , It-Consultant and Eternal Student!
   - [x] 💻 Learn Django
   - [ ] 💻 Learn the basics of Rust
   - [ ] 💻 Learn Sveltekit
-  - [ ] 🛸 Create at least one new open source project
+  - [x] 🛸 Create at least one new open source project
 
 <details>
   <summary>Previous goals</summary>
-  
-  - 🥅 2022 Goals: 
-    - [ ] 🎮 Learn Game Development (Love2D, Unreal/Unity/Godot, Blender)
-    - [ ] 💻 Become proficient with C#
-    - [x] 💻 Become proficient with Svelte and NodeJS
-    - [x] 🛸 Contribute more to Open Source projects
-    - [ ] 📄 Create my own website and portfolio
-  
+
+- 🥅 2022 Goals:
+  - [ ] 🎮 Learn Game Development (Love2D, Unreal/Unity/Godot, Blender)
+  - [ ] 💻 Become proficient with C#
+  - [x] 💻 Become proficient with Svelte and NodeJS
+  - [x] 🛸 Contribute more to Open Source projects
+  - [ ] 📄 Create my own website and portfolio
+
 </details>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
