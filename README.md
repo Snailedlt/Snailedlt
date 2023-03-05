@@ -687,7 +687,7 @@ _Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more st
 <img width="50%" alt="Snailedlt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Snailedlt&&theme=react-dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22eded&icon_color=22eded&text_color=cacaca&color=22eded&border_radius=0&count_private=true" />
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-493%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-493%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
 
@@ -718,21 +718,23 @@ Sunday                   46 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-HTML                     2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
-Python                   1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-CSS                      1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-JavaScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Markdown                 2 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+HTML                     2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Python                   1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+CSS                      1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+JavaScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  9 hrs 34 mins       █████████████████████████   99.24 % 
+Godot                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Windows                  9 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  9 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/03/2023 12:24:50 UTC
+ Last Updated on 05/03/2023 12:25:07 UTC
 <!--END_SECTION:waka-->
 
 </div>
