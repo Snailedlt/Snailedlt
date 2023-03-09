@@ -687,9 +687,9 @@ _Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more st
 <img width="50%" alt="Snailedlt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Snailedlt&&theme=react-dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22eded&icon_color=22eded&text_color=cacaca&color=22eded&border_radius=0&count_private=true" />
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-498%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-65-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.1%20million%20lines%20of%20code-blue)
 
@@ -718,23 +718,23 @@ Sunday                   46 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 23 mins       ████████████░░░░░░░░░░░░░   47.90 % 
-HTML                     1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-CSS                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Markdown                 3 hrs 46 mins       ███████████████░░░░░░░░░░   59.18 % 
+HTML                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 🔥 Editors: 
-VS Code                  7 hrs               █████████████████████████   98.93 % 
-Godot                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+VS Code                  6 hrs 17 mins       █████████████████████████   98.81 % 
+Godot                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Windows                  7 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  6 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/03/2023 12:28:16 UTC
+ Last Updated on 09/03/2023 12:30:11 UTC
 <!--END_SECTION:waka-->
 
 </div>
