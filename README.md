@@ -687,7 +687,7 @@ _Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more st
 <img width="50%" alt="Snailedlt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Snailedlt&&theme=react-dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22eded&icon_color=22eded&text_color=cacaca&color=22eded&border_radius=0&count_private=true" />
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -718,21 +718,21 @@ Sunday                   695 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 12 mins       ████████████████░░░░░░░░░   62.96 % 
-HTML                     1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
-CSS                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Svelte                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Python                   2 hrs 19 mins       ████████████░░░░░░░░░░░░░   47.17 % 
+HTML                     2 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.74 % 
+CSS                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Svelte                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 55 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/03/2023 12:32:15 UTC
+ Last Updated on 01/04/2023 12:29:34 UTC
 <!--END_SECTION:waka-->
 
 </div>
