@@ -39,6 +39,9 @@ I'm a Software Developer , It-Consultant and Eternal Student!
 [<img title="Codewars" height=50px src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" />][codewars]
 [<img title="WakaTime" height=50px src="https://user-images.githubusercontent.com/43886029/193454699-4bd4e5d2-4dfb-4093-bd2a-35915fe0daf4.svg" />][wakatime]
 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H0GY0OU)
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <details>
