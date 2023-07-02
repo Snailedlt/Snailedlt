@@ -68,6 +68,17 @@ I'm a Software Developer , It-Consultant and Eternal Student!
         </td>
         <td width="80px" align="center">
           <span
+            ><sup><b>TypeScript</b></sup></span
+          ><br />
+          <img
+            alt="TypeScript"
+            title="TypeScript"
+            width="50px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+          />
+        </td>
+        <td width="80px" align="center">
+          <span
             ><sup><b>Groovy</sup></b></span
           ><br />
           <img
@@ -90,6 +101,19 @@ I'm a Software Developer , It-Consultant and Eternal Student!
         </td>
         <td width="80px" align="center">
           <span
+            ><sup><b>Python</sup></b></span
+          ><br />
+          <img
+            alt="Python"
+            title="Python"
+            width="50px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+          />
+        </td>
+      </tr>
+      <tr valign="top">
+        <td width="80px" align="center">
+          <span
             ><sup><b>Bash</sup></b></span
           ><br />
           <img
@@ -97,30 +121,6 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             title="Bash"
             width="50px"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
-          />
-        </td>
-        <td width="100rem" align="center">
-          <span
-            ><sup><b>C#</sup></b></span
-          ><br />
-          <img
-            alt="C#"
-            title="C#"
-            width="50px"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-          />
-        </td>
-      </tr>
-      <tr valign="top">
-        <td width="80px" align="center">
-          <span
-            ><sup><b>Kotlin</sup></b></span
-          ><br />
-          <img
-            alt="Kotlin"
-            title="Kotlin"
-            width="50px"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
           />
         </td>
         <td width="80px" align="center">
@@ -132,6 +132,17 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             title="HTML5"
             width="50px"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+          />
+        </td>
+        <td width="80px" align="center">
+          <span
+            ><sup><b>Kotlin</sup></b></span
+          ><br />
+          <img
+            alt="Kotlin"
+            title="Kotlin"
+            width="50px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
           />
         </td>
         <td width="80px" align="center">
@@ -154,6 +165,19 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             title="CSS3"
             width="50px"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+          />
+        </td>
+      </tr>
+      <tr>
+        <td width="100rem" align="center">
+          <span
+            ><sup><b>C#</sup></b></span
+          ><br />
+          <img
+            alt="C#"
+            title="C#"
+            width="50px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
           />
         </td>
         <td width="80px" align="center">
