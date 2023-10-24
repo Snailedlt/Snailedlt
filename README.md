@@ -5,7 +5,7 @@
 I'm a Software Developer , It-Consultant and Eternal Student!
 
 - 🌱 I’m currently learning NextJS and Python.
-- ⚡ Fun fact: I love to snowskates (ask me about it), snowboarding, skiing and playing beach volleyball
+- ⚡ Fun fact: I love snowskating (ask me about it), snowboarding, skiing and playing beach volleyball
 - 🥅 2023 Goals:
   - [ ] 📄 Create my own website and portfolio
   - [x] 💻 Learn Django
