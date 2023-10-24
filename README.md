@@ -136,6 +136,17 @@ I'm a Software Developer , It-Consultant and Eternal Student!
         </td>
         <td width="80px" align="center">
           <span
+            ><sup><b>CSS3</sup></b></span
+          ><br />
+          <img
+            alt="CSS3"
+            title="CSS3"
+            width="50px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+          />
+        </td>
+        <td width="80px" align="center">
+          <span
             ><sup><b>Kotlin</sup></b></span
           ><br />
           <img
@@ -154,17 +165,6 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             title="PHP"
             width="50px"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-          />
-        </td>
-        <td width="80px" align="center">
-          <span
-            ><sup><b>CSS3</sup></b></span
-          ><br />
-          <img
-            alt="CSS3"
-            title="CSS3"
-            width="50px"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
           />
         </td>
       </tr>
@@ -223,41 +223,6 @@ I'm a Software Developer , It-Consultant and Eternal Student!
         </td>
         <td width="80px" align="center">
           <span
-            ><sup><b>Vue</sup></b></span
-          ><br />
-          <img
-            alt="Vue"
-            title="Vue"
-            width="50px"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-          />
-        </td>
-        <td width="80px" align="center">
-          <span
-            ><sup><b>Laravel</sup></b></span
-          ><br />
-          <img
-            alt="Laravel"
-            title="Laravel"
-            width="50px"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
-          />
-        </td>
-        <td width="80px" align="center">
-          <span
-            ><sup><b>Discord.js</sup></b></span
-          ><br />
-          <img
-            alt="Discord.js"
-            title="Discord.js"
-            width="50px"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg"
-          />
-        </td>
-      </tr>
-      <tr valign="top">
-        <td width="80px" align="center">
-          <span
             ><sup><b>Node.js</sup></b></span
           ><br />
           <img
@@ -276,6 +241,41 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             title="FastAPI"
             width="50px"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
+          />
+        </td>
+        <td width="80px" align="center">
+          <span
+            ><sup><b>Discord.js</sup></b></span
+          ><br />
+          <img
+            alt="Discord.js"
+            title="Discord.js"
+            width="50px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg"
+          />
+        </td>
+      </tr>
+      <tr valign="top">
+        <td width="80px" align="center">
+          <span
+            ><sup><b>Vue</sup></b></span
+          ><br />
+          <img
+            alt="Vue"
+            title="Vue"
+            width="50px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+          />
+        </td>
+        <td width="80px" align="center">
+          <span
+            ><sup><b>Laravel</sup></b></span
+          ><br />
+          <img
+            alt="Laravel"
+            title="Laravel"
+            width="50px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
           />
         </td>
         <td width="80px" align="center">
@@ -343,6 +343,17 @@ I'm a Software Developer , It-Consultant and Eternal Student!
         </td>
         <td width="80px" align="center">
           <span
+            ><sup><b>PostgreSQL</sup></b></span
+          ><br />
+          <img
+            alt="PostgreSQL"
+            title="PostgreSQL"
+            width="50px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+          />
+        </td>
+        <td width="80px" align="center">
+          <span
             ><sup><b>SQLite</sup></b></span
           ><br />
           <img
@@ -352,6 +363,8 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
           />
         </td>
+      </tr>
+      <tr>
         <td width="80px" align="center">
           <span
             ><sup><b>MongoDB</sup></b></span
@@ -420,6 +433,20 @@ I'm a Software Developer , It-Consultant and Eternal Student!
         </td>
         <td width="80px" align="center">
           <span
+            ><sup><b>WebStorm</sup></b></span
+          ><br />
+          <img
+            align="bottom"
+            alt="WebStorm"
+            title="WebStorm"
+            width="50px"
+            src="https://raw.githubusercontent.com/devicons/devicon/ef4f985f582054dfb1f52edac014bd3e011a327c/icons/webstorm/webstorm-original.svg"
+          />
+        </td>
+      </tr>
+      <tr valign="top">
+        <td width="80px" align="center">
+          <span
             ><sup><b>Netbeans</sup></b></span
           ><br />
           <img
@@ -429,8 +456,6 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"
           />
         </td>
-      </tr>
-      <tr valign="top">
         <td width="80px" align="center">
           <span
             ><sup><b>Visual Studio</sup></b></span
@@ -674,6 +699,17 @@ I'm a Software Developer , It-Consultant and Eternal Student!
   <table align="center" width="400px">
     <tbody>
       <tr valign="top">
+        <td width="80px" align="center">
+          <span
+            ><sup><b>Godot</sup></b></span
+          ><br />
+          <img
+            alt="Godot"
+            title="Godot"
+            width="50px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"
+          />
+        </td>
         <td width="80px" align="center">
           <span
             ><sup><b>Unity</sup></b></span
