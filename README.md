@@ -36,7 +36,7 @@ I'm a Software Developer , It-Consultant and Eternal Student!
 
 [<img title="StackOverflow" height=50px src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />][stackoverflow]
 [<img title="Pluralsight" height=50px src="https://user-images.githubusercontent.com/43886029/184349691-bc76017d-1548-4663-8aad-8c1415b99f27.svg" />][pluralsight]
-[<img title="Codewars" height=50px src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" />][codewars]
+[<img title="Codewars" height=50px src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" />][codewars]
 [<img title="WakaTime" height=50px src="https://user-images.githubusercontent.com/43886029/193454699-4bd4e5d2-4dfb-4093-bd2a-35915fe0daf4.svg" />][wakatime]
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
