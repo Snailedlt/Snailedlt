@@ -4,17 +4,21 @@
 
 I'm a Software Developer , It-Consultant and Eternal Student!
 
-- 🌱 I’m currently learning NextJS and Python.
+- 🌱 I’m currently learning NextJS and Payload CMS.
 - ⚡ Fun fact: I love snowskating (ask me about it), snowboarding, skiing and playing beach volleyball
-- 🥅 2023 Goals:
+- 🥅 2024 Goals:
   - [ ] 📄 Create my own website and portfolio
-  - [x] 💻 Learn Django
-  - [ ] 💻 Learn the basics of Rust
   - [ ] 💻 Learn Sveltekit
-  - [x] 🛸 Create at least one new open source project
+  - [ ] 🛸 Create at least one new open source project
 
 <details>
   <summary>Previous goals</summary>
+- 🥅 2023 Goals:
+  - [ ] 📄 Create my own website and portfolio
+  - [x] 💻 Learn Django
+  - [x] 💻 Learn the basics of Rust
+  - [ ] 💻 Learn Sveltekit
+  - [x] 🛸 Create at least one new open source project
 
 - 🥅 2022 Goals:
   - [ ] 🎮 Learn Game Development (Love2D, Unreal/Unity/Godot, Blender)
