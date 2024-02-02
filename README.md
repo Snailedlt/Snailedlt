@@ -13,6 +13,7 @@ I'm a Software Developer , It-Consultant and Eternal Student!
 
 <details>
   <summary>Previous goals</summary>
+  
 - 🥅 2023 Goals:
   - [ ] 📄 Create my own website and portfolio
   - [x] 💻 Learn Django
