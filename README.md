@@ -8,8 +8,8 @@ I'm a Software Developer , It-Consultant and Eternal Student!
 - ⚡ Fun fact: I love snowskating (ask me about it), snowboarding, skiing and playing beach volleyball
 - 🥅 2024 Goals:
   - [ ] 📄 Create my own website and portfolio
-  - [ ] 💻 Learn Sveltekit
-  - [ ] 🛸 Create at least one new open source project
+  - [x] 💻 Learn Sveltekit
+  - [x] 🛸 Create at least one new open source project
 
 <details>
   <summary>Previous goals</summary>
