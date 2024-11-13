@@ -280,7 +280,7 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             alt="Laravel"
             title="Laravel"
             width="50px"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"
           />
         </td>
         <td width="80px" align="center">
