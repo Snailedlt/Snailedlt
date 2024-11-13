@@ -217,6 +217,17 @@ I'm a Software Developer , It-Consultant and Eternal Student!
         </td>
         <td width="80px" align="center">
           <span
+            ><sup><b>Next.js</sup></b></span
+          ><br />
+          <img
+            alt="Next.js"
+            title="Next.js"
+            width="50px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+          />
+        </td>
+        <td width="80px" align="center">
+          <span
             ><sup><b>Django</sup></b></span
           ><br />
           <img
@@ -248,6 +259,8 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
           />
         </td>
+      </tr>
+      <tr valign="top">
         <td width="80px" align="center">
           <span
             ><sup><b>Discord.js</sup></b></span
@@ -259,8 +272,6 @@ I'm a Software Developer , It-Consultant and Eternal Student!
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg"
           />
         </td>
-      </tr>
-      <tr valign="top">
         <td width="80px" align="center">
           <span
             ><sup><b>Vue</sup></b></span
