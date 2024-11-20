@@ -763,7 +763,7 @@ _Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more st
 <img width="50%" alt="Snailedlt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Snailedlt&&theme=react-dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22eded&icon_color=22eded&text_color=cacaca&color=22eded&border_radius=0&count_private=true" />
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C309%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C309%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -772,9 +772,9 @@ _Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more st
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5465 commits        █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-🌆 Daytime                15953 commits       ██████████████░░░░░░░░░░░   54.28 % 
-🌃 Evening                5878 commits        █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+🌞 Morning                5465 commits        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+🌆 Daytime                15953 commits       ██████████████░░░░░░░░░░░   54.27 % 
+🌃 Evening                5883 commits        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
 🌙 Night                  2092 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -782,11 +782,11 @@ _Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more st
 ```text
 Monday                   5372 commits        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
 Tuesday                  4477 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Wednesday                5989 commits        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-Thursday                 4563 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Wednesday                5992 commits        █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+Thursday                 4563 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
 Friday                   7031 commits        ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
 Saturday                 665 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-Sunday                   1291 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Sunday                   1293 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 ```
 
 
@@ -794,17 +794,17 @@ Sunday                   1291 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    13 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/11/2024 12:47:11 UTC
+ Last Updated on 20/11/2024 12:47:07 UTC
 <!--END_SECTION:waka-->
 
 </div>
