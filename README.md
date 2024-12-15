@@ -9,7 +9,7 @@ I'm a Software Developer , It-Consultant and Eternal Student!
 - 🌱 I’m currently learning NextJS and Payload CMS.
 - ⚡ Fun fact: I love snowskating (ask me about it), snowboarding, skiing and playing beach volleyball
 - 🥅 2024 Goals:
-  - [ ] 📄 Create My Website and Portfolio <!-- 🟡*Progress:* Started from scratch again. Backend is mostly done locally, but missing data, frontend, and deployment for DB and file hosting. Also added [Markdown-Videos](https://github.com/Snailedlt/Markdown-Videos) and [SVG Recolor](https://github.com/Snailedlt/svg-recolor) to the domain -->
+  - [ ] 📄 Create my own website and portfolio <!-- 🟡*Progress:* Started from scratch again. Backend is mostly done locally, but missing data, frontend, and deployment for DB and file hosting. Also added [Markdown-Videos](https://github.com/Snailedlt/Markdown-Videos) and [SVG Recolor](https://github.com/Snailedlt/svg-recolor) to the domain -->
   - [x] 💻 Learn Sveltekit <!-- 🟢*Achieved:* Learned the basics but didn’t have much time to use it in projects -->
   - [x] 🛸 Create at Least One New Open Source Project <!-- 🟢*Achieved:* Created 3 projects that I'm happy with: [Markdown-Videos](https://github.com/Snailedlt/Markdown-Videos), [Svelte Payload Example](https://github.com/Snailedlt/svelte-payload-example),[SVG Recolor](https://github.com/Snailedlt/svg-recolor) -->
 
