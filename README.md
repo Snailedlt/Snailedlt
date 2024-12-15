@@ -5,7 +5,10 @@
 I'm a Software Developer , It-Consultant and Eternal Student!
 
 <!-- 🥅 2025 Goals: -->
-<!--  - [ ] **📄 Finish portfolio website MVP** -->
+<!--  - [ ] 📄 Finish portfolio website MVP -->
+<!--  - [ ] 🚀 Explore deployment options (Netlify, Docker, Google Cloud, AWS, Cloudflare, Firebase, ) -->
+<!--  - [ ] 📝 Explore CMS options (Sveltia, etc.) -->
+<!--  - [ ] 🐳 Explore containerization options (Docker, Kubernetes,  -->
 - 🌱 I’m currently learning NextJS and Payload CMS.
 - ⚡ Fun fact: I love snowskating (ask me about it), snowboarding, skiing and playing beach volleyball
 - 🥅 2024 Goals:
@@ -15,7 +18,7 @@ I'm a Software Developer , It-Consultant and Eternal Student!
 
 <details>
   <summary>Previous goals</summary>
-  
+
 - 🥅 2023 Goals:
   - [ ] 📄 Create my own website and portfolio <!-- 🟡*Progress*: I got started creating the backend. Also registered the domain https://jorgenkh.no -->
   - [x] 💻 Learn Django <!-- 🟢*Achieved*: I used Django in multiple projects professionally -->
