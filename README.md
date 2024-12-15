@@ -8,7 +8,8 @@ I'm a Software Developer , It-Consultant and Eternal Student!
 <!--  - [ ] 📄 Finish portfolio website MVP -->
 <!--  - [ ] 🚀 Explore deployment options (Netlify, Docker, Google Cloud, AWS, Cloudflare, Firebase, ) -->
 <!--  - [ ] 📝 Explore CMS options (Sveltia, etc.) -->
-<!--  - [ ] 🐳 Explore containerization options (Docker, Kubernetes,  -->
+<!--  - [ ] 🛸 Create at least one new open source project -->
+
 - 🌱 I’m currently learning NextJS and Payload CMS.
 - ⚡ Fun fact: I love snowskating (ask me about it), snowboarding, skiing and playing beach volleyball
 - 🥅 2024 Goals:
