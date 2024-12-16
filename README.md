@@ -767,8 +767,8 @@ I'm a Software Developer , It-Consultant and Eternal Student!
 _Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more stats_
 
 
-<img align="center" height="200px" alt="WakaTime Stats" src="https://github-readme-stats-snailedlt.vercel.app/api/wakatime/?username=snailedlt&layout=compact&langs_count=10&theme=react-dark&bg_color=0d1117&title_color=22eded&icon_color=22eded&text_color=cacaca&color=22eded&count_private=true%22" />
-<img align="center" height="200px" alt="Snailedlt's GitHub Stats" src="https://github-readme-stats-snailedlt.vercel.app/api?username=Snailedlt&&theme=react-dark&show_icons=true&bg_color=0d1117&title_color=22eded&icon_color=22eded&text_color=cacaca&color=22eded&count_private=true" /> 
+<img align="center" height="150px" alt="WakaTime Stats" src="https://github-readme-stats-snailedlt.vercel.app/api/wakatime/?username=snailedlt&layout=compact&langs_count=10&theme=react-dark&bg_color=0d1117&title_color=22eded&icon_color=22eded&text_color=cacaca&color=22eded&count_private=true%22" />
+<img align="center" height="150px" alt="Snailedlt's GitHub Stats" src="https://github-readme-stats-snailedlt.vercel.app/api?username=Snailedlt&&theme=react-dark&show_icons=true&bg_color=0d1117&title_color=22eded&icon_color=22eded&text_color=cacaca&color=22eded&count_private=true" /> 
 
 <!-- Most used languages on GitHub (alternative to wakatime) -->
 <!-- <img width="60%" alt="Snailedlt's Top Languages" src="https://github-readme-stats-snailedlt.vercel.app/api/top-langs/?username=snailedlt&langs_count=10&layout=compact&exclude_repo=github-readme-stats,splitscreenme-nucleus&theme=react-dark&bg_color=0d1117&title_color=22eded&text_color=cacaca&color=22eded&count_private=true%22" /> -->
