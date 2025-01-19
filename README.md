@@ -5,21 +5,22 @@
 
 I'm a Software Developer , It-Consultant and Eternal Student!
 
-<!-- 🥅 2025 Goals: -->
-<!--  - [ ] 📄 Finish portfolio website MVP -->
-<!--  - [ ] 🚀 Explore deployment options (Netlify, Docker, Google Cloud, AWS, Cloudflare, Firebase, ) -->
-<!--  - [ ] 📝 Explore CMS options (Sveltia, etc.) -->
-<!--  - [ ] 🛸 Create at least one new open source project -->
+ 🥅 2025 Goals:
+  - [ ] 📄 Finish portfolio website MVP
+  - [ ] 🚀 Explore deployment options (Netlify, Docker, Google Cloud, AWS, Cloudflare, Firebase )
+  - [ ] 📝 Explore CMS options (Sveltia, etc.)
+  - [ ] 🛸 Create at least one new open source project
 
-- 🌱 I’m currently learning NextJS and Payload CMS.
+- 🌱 I’m currently learning Payload CMS and ServiceNow.
 - ⚡ Fun fact: I love snowskating (ask me about it), snowboarding, skiing and playing beach volleyball
+
+<details>
+  <summary>Previous goals</summary>
+
 - 🥅 2024 Goals:
   - [ ] 📄 Create my own website and portfolio <!-- 🟡*Progress:* Started from scratch again. Backend is mostly done locally, but missing data, frontend, and deployment for DB and file hosting. Also added [Markdown-Videos](https://github.com/Snailedlt/Markdown-Videos) and [SVG Recolor](https://github.com/Snailedlt/svg-recolor) to the domain -->
   - [x] 💻 Learn Sveltekit <!-- 🟢*Achieved:* Learned the basics but didn’t have much time to use it in projects -->
   - [x] 🛸 Create at Least One New Open Source Project <!-- 🟢*Achieved:* Created 3 projects that I'm happy with: [Markdown-Videos](https://github.com/Snailedlt/Markdown-Videos), [Svelte Payload Example](https://github.com/Snailedlt/svelte-payload-example),[SVG Recolor](https://github.com/Snailedlt/svg-recolor) -->
-
-<details>
-  <summary>Previous goals</summary>
 
 - 🥅 2023 Goals:
   - [ ] 📄 Create my own website and portfolio <!-- 🟡*Progress*: I got started creating the backend. Also registered the domain https://jorgenkh.no -->
