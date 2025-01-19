@@ -5,14 +5,14 @@
 
 I'm a Software Developer , It-Consultant and Eternal Student!
 
+- 🌱 I’m currently learning Payload CMS and ServiceNow.
+- ⚡ Fun fact: I love snowskating (ask me about it), snowboarding, skiing and playing beach volleyball
+
  🥅 2025 Goals:
   - [ ] 📄 Finish portfolio website MVP
   - [ ] 🚀 Explore deployment options (Netlify, Docker, Google Cloud, AWS, Cloudflare, Firebase )
   - [ ] 📝 Explore CMS options (Sveltia, etc.)
   - [ ] 🛸 Create at least one new open source project
-
-- 🌱 I’m currently learning Payload CMS and ServiceNow.
-- ⚡ Fun fact: I love snowskating (ask me about it), snowboarding, skiing and playing beach volleyball
 
 <details>
   <summary>Previous goals</summary>
