@@ -41,7 +41,7 @@ I'm a Software Developer , It-Consultant and Eternal Student!
 
 **CONNECT WITH ME**
 
-[<img title="E-Mail" height=50px src="https://mailmeteor.com/logos/assets/SVG/Gmail_Logo.svg" />][mail]
+[<img title="E-Mail" height=50px src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][mail]
 [<img title="Linkedin" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 **MY OTHER PLATFORMS**
