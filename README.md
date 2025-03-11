@@ -5,7 +5,7 @@
 
 I'm a Software Developer , It-Consultant and Eternal Student!
 
-- 🌱 I’m currently learning Payload CMS and ServiceNow.
+- 🌱 I’m currently learning Payload CMS, ServiceNow and Simplified Chinese.
 - ⚡ Fun fact: I love snowskating (ask me about it), snowboarding, skiing and playing beach volleyball
 - 🥅 2025 Goals:
   - [ ] 📄 Finish portfolio website MVP
