@@ -6,11 +6,11 @@
 I'm a Software Developer , It-Consultant and Eternal Student!
 
 - 🌱 I’m currently learning Payload CMS, ServiceNow and Simplified Chinese.
-- ⚡ Fun fact: I love snowskating (ask me about it), snowboarding, skiing and playing beach volleyball
+- 👤 About me: I love learning more about the world and staying active. Hobbies include learning about geopolitics, science, history, nature and investing. As for activities I enjoy snowboarding, skiing, snowskating and playing indoor- as well as beach-volleyball
 - 🥅 2025 Goals:
   - [ ] 📄 Finish portfolio website MVP
-  - [ ] 🚀 Explore deployment options (Netlify, Docker, Google Cloud, AWS, Cloudflare, Firebase )
-  - [ ] 📝 Explore CMS options (Sveltia, etc.)
+  - [ ] 🚀 Explore deployment options (~~Netlify~~, Docker, Google Cloud, AWS, Cloudflare, Firebase, Coolify + akamai, ~~Neon~~, ~~Supabase~~, ~~Render~~ )
+  - [ ] 📝 Explore CMS options (Sveltia, ~~Payload CMS~~, ~~Django~~, Sanity, Strapi, etc.)
   - [ ] 🛸 Create at least one new open source project
 
 <details>
