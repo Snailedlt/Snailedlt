@@ -777,7 +777,7 @@ _Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more st
 <!-- <img width="60%" src="https://wakatime.com/share/@Snailedlt/688cd011-8ddd-4656-a00a-bf131199da82.svg"> -->
 <br></br>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C340%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C340%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -787,8 +787,8 @@ _Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more st
 
 ```text
 🌞 Morning                2957 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-🌆 Daytime                8258 commits        ███████████░░░░░░░░░░░░░░   43.05 % 
-🌃 Evening                5537 commits        ███████░░░░░░░░░░░░░░░░░░   28.86 % 
+🌆 Daytime                8258 commits        ███████████░░░░░░░░░░░░░░   43.04 % 
+🌃 Evening                5540 commits        ███████░░░░░░░░░░░░░░░░░░   28.87 % 
 🌙 Night                  2432 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -796,9 +796,9 @@ _Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more st
 ```text
 Monday                   3231 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
 Tuesday                  2434 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Wednesday                3782 commits        █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Wednesday                3784 commits        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
 Thursday                 2458 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Friday                   4895 commits        ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
+Friday                   4896 commits        ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
 Saturday                 860 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 Sunday                   1524 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 ```
@@ -808,17 +808,18 @@ Sunday                   1524 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               10 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             ████████████████████████░   96.93 % 
+Unknown Editor           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    10 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/05/2025 12:48:41 UTC
+ Last Updated on 10/05/2025 12:43:10 UTC
 <!--END_SECTION:waka-->
 
 </div>
