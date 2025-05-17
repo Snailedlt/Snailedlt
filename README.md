@@ -808,18 +808,17 @@ Sunday                   1546 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             ████████████████████████░   96.93 % 
-Unknown Editor           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/05/2025 12:48:24 UTC
+ Last Updated on 17/05/2025 12:44:00 UTC
 <!--END_SECTION:waka-->
 
 </div>
