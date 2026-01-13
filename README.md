@@ -777,9 +777,9 @@ _Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more st
 <!-- <img width="60%" src="https://wakatime.com/share/@Snailedlt/688cd011-8ddd-4656-a00a-bf131199da82.svg"> -->
 <br></br>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C387%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C392%20hrs%2019%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.59%20million%20lines%20of%20code-blue?style=flat)
 
@@ -808,21 +808,21 @@ Sunday                   1780 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 14 mins       ████████████████░░░░░░░░░   62.27 % 
-Svelte                   39 mins             █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+TypeScript               3 hrs 17 mins       █████████████████░░░░░░░░   68.27 % 
+Markdown                 46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Svelte                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/01/2026 12:41:15 UTC
+ Last Updated on 13/01/2026 12:48:18 UTC
 <!--END_SECTION:waka-->
 
 </div>
