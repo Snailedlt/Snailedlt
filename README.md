@@ -779,9 +779,9 @@ _Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more st
 <!-- <img width="60%" src="https://wakatime.com/share/@Snailedlt/688cd011-8ddd-4656-a00a-bf131199da82.svg"> -->
 <br></br>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C406%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C406%20hrs%2048%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.63%20million%20lines%20of%20code-blue?style=flat)
 
@@ -810,20 +810,20 @@ Sunday                   1792 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PowerShell               2 hrs 17 mins       █████████████░░░░░░░░░░░░   52.42 % 
-JSON                     1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-JavaScript               39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+PowerShell               2 hrs 19 mins       █████████████░░░░░░░░░░░░   51.75 % 
+JSON                     1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+JavaScript               39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/02/2026 13:03:37 UTC
+ Last Updated on 18/02/2026 13:04:48 UTC
 <!--END_SECTION:waka-->
 
 </div>
