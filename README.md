@@ -779,9 +779,9 @@ _Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more st
 <!-- <img width="60%" src="https://wakatime.com/share/@Snailedlt/688cd011-8ddd-4656-a00a-bf131199da82.svg"> -->
 <br></br>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C409%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C409%20hrs%2011%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.63%20million%20lines%20of%20code-blue?style=flat)
 
@@ -810,20 +810,21 @@ Sunday                   1792 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     1 hr 43 mins        ████████████░░░░░░░░░░░░░   48.21 % 
-PowerShell               1 hr 25 mins        ██████████░░░░░░░░░░░░░░░   40.02 % 
-JavaScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+PowerShell               1 hr 29 mins        ████████████░░░░░░░░░░░░░   46.68 % 
+JSON                     1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   39.01 % 
+TypeScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/02/2026 13:00:13 UTC
+ Last Updated on 21/02/2026 12:46:05 UTC
 <!--END_SECTION:waka-->
 
 </div>
