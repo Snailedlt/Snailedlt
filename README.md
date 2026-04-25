@@ -810,17 +810,19 @@ Sunday                   1679 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               22 mins             ███████████░░░░░░░░░░░░░░   45.62 % 
+JavaScript               22 mins             ███████████░░░░░░░░░░░░░░   45.16 % 
+XML                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  48 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  48 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/04/2026 13:24:04 UTC
+ Last Updated on 25/04/2026 13:03:40 UTC
 <!--END_SECTION:waka-->
 
 </div>
