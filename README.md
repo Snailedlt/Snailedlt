@@ -779,14 +779,53 @@ _Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more st
 <!-- <img width="60%" src="https://wakatime.com/share/@Snailedlt/688cd011-8ddd-4656-a00a-bf131199da82.svg"> -->
 <br></br>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C448%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C452%20hrs%2019%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.51%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.67%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3239 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+🌆 Daytime                8839 commits        ████████████░░░░░░░░░░░░░   48.56 % 
+🌃 Evening                4523 commits        ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
+🌙 Night                  1603 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   3445 commits        █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Tuesday                  2650 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Wednesday                3209 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Thursday                 2594 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Friday                   3670 commits        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Saturday                 897 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Sunday                   1739 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+```
 
 
- Last Updated on 15/05/2026 14:06:45 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    13 mins             ████████████░░░░░░░░░░░░░   47.57 % 
+JSON                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+Markdown                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Bash                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Text                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+
+🔥 Editors: 
+VS Code                  21 mins             ███████████████████░░░░░░   75.54 % 
+Unknown Editor           7 mins              ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+
+💻 Operating System: 
+Windows                  28 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16/05/2026 13:21:20 UTC
 <!--END_SECTION:waka-->
 
 </div>
