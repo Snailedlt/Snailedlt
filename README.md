@@ -785,8 +785,48 @@ _Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more st
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.75%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 18/05/2026 15:34:11 UTC
+```text
+🌞 Morning                3253 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+🌆 Daytime                8912 commits        ████████████░░░░░░░░░░░░░   48.46 % 
+🌃 Evening                4584 commits        ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+🌙 Night                  1643 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   3473 commits        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Tuesday                  2668 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Wednesday                3225 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Thursday                 2602 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Friday                   3684 commits        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Saturday                 971 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Sunday                   1769 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+HTML                     2 hrs 54 mins       ███████████████░░░░░░░░░░   59.77 % 
+Python                   42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Image (svg)              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 44 mins       ███████████████████░░░░░░   76.90 % 
+Unknown Editor           56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Claude Code              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+
+💻 Operating System: 
+Windows                  4 hrs 51 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 19/05/2026 15:03:17 UTC
 <!--END_SECTION:waka-->
 
 </div>
