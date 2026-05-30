@@ -785,8 +785,43 @@ _Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more st
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.75%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 29/05/2026 15:03:24 UTC
+```text
+🌞 Morning                3253 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+🌆 Daytime                8912 commits        ████████████░░░░░░░░░░░░░   48.46 % 
+🌃 Evening                4584 commits        ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+🌙 Night                  1643 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   3473 commits        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Tuesday                  2668 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Wednesday                3225 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Thursday                 2602 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Friday                   3684 commits        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Saturday                 971 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Sunday                   1769 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+HTML                     3 mins              █████████████░░░░░░░░░░░░   53.84 % 
+Image (svg)              3 mins              ████████████░░░░░░░░░░░░░   46.16 % 
+
+🔥 Editors: 
+VS Code                  6 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  6 mins              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 30/05/2026 13:28:58 UTC
 <!--END_SECTION:waka-->
 
 </div>
