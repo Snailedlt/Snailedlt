@@ -781,7 +781,7 @@ _Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more st
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C462%20hrs%2052%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.79%20million%20lines%20of%20code-blue?style=flat)
 
@@ -810,19 +810,19 @@ Sunday                   1781 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 28 mins        ███████████████████████░░   93.95 % 
-Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+JavaScript               1 hr 12 mins        █████████████████████████   99.93 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         ██████████████████░░░░░░░   72.45 % 
-Claude Code              26 mins             ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+VS Code                  46 mins             ████████████████░░░░░░░░░   63.99 % 
+Claude Code              26 mins             █████████░░░░░░░░░░░░░░░░   36.01 % 
 
 💻 Operating System: 
-Windows                  1 hr 34 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/06/2026 17:17:01 UTC
+ Last Updated on 16/06/2026 16:51:51 UTC
 <!--END_SECTION:waka-->
 
 </div>
