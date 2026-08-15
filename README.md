@@ -779,9 +779,9 @@ _Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more st
 <!-- <img width="60%" src="https://wakatime.com/share/@Snailedlt/688cd011-8ddd-4656-a00a-bf131199da82.svg"> -->
 <br></br>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C450%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C450%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -812,46 +812,46 @@ Sunday                   1781 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 59 mins       ████████████░░░░░░░░░░░░░   48.84 % 
-Markdown                 3 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-JavaScript               3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Text                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+TypeScript               6 hrs 3 mins        ████████████░░░░░░░░░░░░░   49.65 % 
+JavaScript               3 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   32.35 % 
+Markdown                 1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+PowerShell               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 54 mins       ████████████████░░░░░░░░░   62.22 % 
-VS Code                  5 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.78 % 
+Claude Code              10 hrs 38 mins      ██████████████████████░░░   87.13 % 
+VS Code                  1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
 
 💻 Operating System: 
-Windows                  14 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 5 mins (91.32%)
+⏱ AI Coding Time: 11 hrs 50 mins (97.03%)
 
-✍️ 7,485 lines written by AI, 1,155 lines written by hand (86.63% AI-written)
+✍️ 7,618 lines written by AI, 47 lines written by hand (99.39% AI-written)
 
-🔤 3,119,562 Input Tokens, 458,207 Output Tokens
+🔤 3,136,784 Input Tokens, 534,808 Output Tokens
 
-💵 $49.53 Estimated AI Cost This Week
+💵 $57.77 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 126 AI Prompts
+🧠 8 AI Sessions, 102 AI Prompts
 
-Sonnet                   7,022 lines         ██████████████████████░░░   86.57 % 
-Github-Copilot           749 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Opus                     340 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Sonnet                   7,815 lines         ████████████████████████░   94.37 % 
+Opus                     340 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Github-Copilot           126 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.63% of written lines came from AI
-📄 Detailed Prompter — average 1,119 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 19.16% of changed lines were hand-edited
+🤖 AI-Driven — 99.39% of written lines came from AI
+📄 Detailed Prompter — average 625 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 1.72% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/08/2026 13:05:30 UTC
+ Last Updated on 15/08/2026 12:36:37 UTC
 <!--END_SECTION:waka-->
 
 </div>
