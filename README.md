@@ -783,7 +783,7 @@ _Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more st
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2024%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.80%20million%20lines%20of%20code-blue?style=flat)
 
@@ -812,44 +812,39 @@ Sunday                   1781 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               47 mins             ██████████░░░░░░░░░░░░░░░   38.75 % 
-Other                    30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-JSON                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-Markdown                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Other                    19 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              1 hr 38 mins        ████████████████████░░░░░   80.26 % 
-VS Code                  24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Claude Code              19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 51 mins (90.83%)
+⏱ AI Coding Time: 19 mins (100.0%)
 
-✍️ 281 lines written by AI, 2 lines written by hand (99.29% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 973,744 Input Tokens, 64,052 Output Tokens
+🔤 261,274 Input Tokens, 1,935 Output Tokens
 
-💵 $7.28 Estimated AI Cost This Week
+💵 $0.91 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 27 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
-Sonnet                   281 lines           █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.29% of written lines came from AI
-📚 Verbose Prompter — average 1,966 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.71% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 20 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/09/2026 16:19:10 UTC
+ Last Updated on 16/09/2026 16:12:04 UTC
 <!--END_SECTION:waka-->
 
 </div>
