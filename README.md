@@ -783,7 +783,7 @@ _Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more st
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2039%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.80%20million%20lines%20of%20code-blue?style=flat)
 
@@ -812,45 +812,43 @@ Sunday                   1781 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 35 mins        █████████████████░░░░░░░░   69.31 % 
-JSON                     36 mins             ███████░░░░░░░░░░░░░░░░░░   26.70 % 
-TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+JSON                     36 mins             █████████████████████░░░░   82.45 % 
+JavaScript               7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Claude Code              2 hrs               ██████████████████████░░░   87.28 % 
-VS Code                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Claude Code              42 mins             ████████████████████████░   95.75 % 
+VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 💻 Operating System: 
-Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  44 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 5 mins (91.5%)
+⏱ AI Coding Time: 42 mins (95.75%)
 
-✍️ 2,449 lines written by AI, 48 lines written by hand (98.08% AI-written)
+✍️ 240 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,066,596 Input Tokens, 109,210 Output Tokens
+🔤 136,372 Input Tokens, 16,910 Output Tokens
 
-💵 $15.94 Estimated AI Cost This Week
+💵 $1.37 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 43 AI Prompts
+🧠 2 AI Sessions, 8 AI Prompts
 
-Sonnet                   2,364 lines         ███████████████████████░░   90.64 % 
-Opus                     244 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Opus                     244 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.08% of written lines came from AI
-📚 Verbose Prompter — average 1,652 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 4.36% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 4,055 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/09/2026 17:42:22 UTC
+ Last Updated on 01/10/2026 18:07:13 UTC
 <!--END_SECTION:waka-->
 
 </div>
