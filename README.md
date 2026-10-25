@@ -779,9 +779,9 @@ _Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more st
 <!-- <img width="60%" src="https://wakatime.com/share/@Snailedlt/688cd011-8ddd-4656-a00a-bf131199da82.svg"> -->
 <br></br>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C490%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C492%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-67%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-69%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
 
@@ -790,21 +790,21 @@ _Check out [my wakatime profile](https://wakatime.com/@Snailedlt) to see more st
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3267 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-🌆 Daytime                8971 commits        ████████████░░░░░░░░░░░░░   48.44 % 
-🌃 Evening                4624 commits        ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
-🌙 Night                  1658 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+🌞 Morning                3267 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+🌆 Daytime                8977 commits        ████████████░░░░░░░░░░░░░   48.45 % 
+🌃 Evening                4626 commits        ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+🌙 Night                  1659 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   3501 commits        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Monday                   3501 commits        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
 Tuesday                  2686 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Wednesday                3241 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Thursday                 2618 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Friday                   3699 commits        █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-Saturday                 982 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Sunday                   1793 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Wednesday                3241 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+Thursday                 2622 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Friday                   3699 commits        █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Saturday                 984 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Sunday                   1796 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
 ```
 
 
@@ -812,23 +812,44 @@ Sunday                   1793 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 39 mins        ████████████░░░░░░░░░░░░░   47.99 % 
+Other                    38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+JSON                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+YAML                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Python                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              2 hrs 18 mins       █████████████████░░░░░░░░   66.74 % 
+VS Code                  1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   33.26 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 19 mins (67.32%)
+
+✍️ 1,074 lines written by AI, 1 lines written by hand (99.91% AI-written)
+
+🔤 1,004,057 Input Tokens, 225,850 Output Tokens
+
+💵 $22.65 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 30 AI Prompts
+
+Opus                     1,387 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.91% of written lines came from AI
+📝 Concise Prompter — average 188 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/10/2026 15:27:46 UTC
+ Last Updated on 25/10/2026 15:37:02 UTC
 <!--END_SECTION:waka-->
 
 </div>
