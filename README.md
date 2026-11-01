@@ -5,8 +5,8 @@
 
 I'm a Software Developer , It-Consultant and Eternal Student!
 
-- 🌱 I’m currently learning Payload CMS, ServiceNow and Simplified Chinese.
-- 👤 About me: I love learning more about the world and staying active. Hobbies include learning about geopolitics, science, history, nature and investing. As for activities I enjoy snowboarding, skiing, snowskating and playing indoor- as well as beach-volleyball
+- 🌱 I’m currently learning vibecoding, ServiceNow and Simplified Chinese.
+- 👤 About me: I love learning more about the world and staying active. Hobbies include coding, learning about geopolitics, science, history, nature and investing. As for activities I enjoy snowboarding, skiing, snowskating and playing indoor- as well as beach-volleyball
 
 
 <details>
