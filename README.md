@@ -8,6 +8,18 @@ I'm a Software Developer , It-Consultant and Eternal Student!
 - 🌱 I’m currently learning vibecoding, ServiceNow and Simplified Chinese.
 - 👤 About me: I love learning more about the world and staying active. Hobbies include coding, learning about geopolitics, science, history, nature and investing. As for activities I enjoy snowboarding, skiing, snowskating and playing indoor- as well as beach-volleyball
 
+- 🥅 2026 Goals:
+  - [ ] 📄 Ship portfolio website MVP
+  - [x] 🛸 Release at least 1 open-source project <!-- Released: [NucleusCoop Handler Testbench](https://github.com/Snailedlt/nucleuscoop-handler-testbench) -->
+  - [x] 🤖 Ship a small vibecoded project <!-- Shipped: [Hverdagsregninger](https://hverdagsregninger.vercel.app), Datovarelogg, Lønnsinnplassering, Selvhjelpsportal, The Scouring Website -->
+  - [x] 🇨🇳 Learn Simplified Chinese basics (HSK 1)
+  - [x] 🤝 Contribute to open source projects I use <!-- 23 merged PRs to [devicon](https://github.com/devicons/devicon): 19 new/updated icons, plus CI and docs improvements -->
+
+- 🥅 2027 Goals:
+  - [ ] 📄 Add project case studies and a blog to my website
+  - [ ] 🇨🇳 Pass HSK 2
+  - [ ] ⭐ Grow a community around one of my projects
+  - [ ] 🌍 Make one of my private projects public
 
 <details>
   <summary>Previous goals</summary>
