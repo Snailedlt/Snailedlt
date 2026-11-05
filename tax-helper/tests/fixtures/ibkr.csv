@@ -1,0 +1,16 @@
+Statement,Header,Field Name,Field Value
+Statement,Data,Title,Activity Statement
+Statement,Data,Period,"January 1, 2024 - December 31, 2024"
+Trades,Header,DataDiscriminator,Asset Category,Currency,Symbol,Date/Time,Quantity,T. Price,C. Price,Proceeds,Comm/Fee,Basis,Realized P/L,MTM P/L,Code
+Trades,Data,Order,Stocks,USD,AAPL,"2024-03-01, 10:30:00",10,180.5,181,-1805,-1,1806,0,5,O
+Trades,Data,Order,Stocks,USD,AAPL,"2024-09-02, 15:01:10",-4,220,220,880,-1,-722.4,156.6,0,C
+Trades,SubTotal,,Stocks,USD,AAPL,,6,,,-925,-2,1083.6,156.6,5,
+Trades,Data,Order,Forex,NOK,USD.NOK,"2024-03-01, 10:00:00",2000,10.5,,-21000,0,,0,0,
+Dividends,Header,Currency,Date,Description,Amount
+Dividends,Data,USD,2024-05-16,AAPL(US0378331005) Cash Dividend USD 0.25 per Share (Ordinary Dividend),2.5
+Dividends,Data,Total,,,2.5
+Withholding Tax,Header,Currency,Date,Description,Amount,Code
+Withholding Tax,Data,USD,2024-05-16,AAPL(US0378331005) Cash Dividend USD 0.25 per Share - US Tax,-0.38,
+Withholding Tax,Data,Total,,,-0.38,
+Financial Instrument Information,Header,Asset Category,Symbol,Description,Conid,Security ID,Listing Exch,Multiplier,Type,Code
+Financial Instrument Information,Data,Stocks,AAPL,APPLE INC,265598,US0378331005,NASDAQ,1,COMMON,

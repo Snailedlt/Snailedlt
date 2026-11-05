@@ -1,0 +1,6 @@
+Action,Time,ISIN,Ticker,Name,No. of shares,Price / share,Currency (Price / share),Exchange rate,Result,Currency (Result),Total,Currency (Total),Withholding tax,Currency (Withholding tax),Currency conversion fee,Currency (Currency conversion fee)
+Deposit,2024-01-05 09:00:00,,,,,,,,,,10000.00,NOK,,,,
+Market buy,2024-01-10 15:30:01,US5949181045,MSFT,Microsoft,2.5,375.00,USD,0.0951,,,9867.50,NOK,,,14.71,NOK
+Dividend (Dividend),2024-03-14 11:00:00,US5949181045,MSFT,Microsoft,2.5,0.75,USD,,,,16.95,NOK,0.28,USD,,
+Market sell,2024-11-20 16:00:00,US5949181045,MSFT,Microsoft,1,415.00,USD,0.0905,480.00,NOK,4570.20,NOK,,,6.86,NOK
+Stock split open,2024-06-01 00:00:00,US0000000001,ABC,Abc,4,,,,,,,,,,,

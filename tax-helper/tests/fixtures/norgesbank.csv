@@ -1,0 +1,4 @@
+FREQ;Frequency;BASE_CUR;Base Currency;QUOTE_CUR;Quote Currency;TENOR;Tenor;DECIMALS;Decimals;CALCULATED;Calculated;UNIT_MULT;Unit Multiplier;COLLECTION;Collection Indicator;TIME_PERIOD;OBS_VALUE
+B;Business;USD;US dollar;NOK;Norwegian krone;SP;Spot;4;4;false;false;0;Units;C;ECB concertation time 14:15 CET;2024-03-01;10.5912
+B;Business;USD;US dollar;NOK;Norwegian krone;SP;Spot;4;4;false;false;0;Units;C;ECB concertation time 14:15 CET;2024-03-04;10.6040
+B;Business;SEK;Swedish krona;NOK;Norwegian krone;SP;Spot;4;4;false;false;2;Hundreds;C;ECB concertation time 14:15 CET;2024-03-01;102.31
