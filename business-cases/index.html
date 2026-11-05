@@ -12,6 +12,7 @@
 :root{
   --bg:#f4f6f8; --surface:#ffffff; --ink:#15202b; --muted:#5a6876; --line:#d9e0e7;
   --accent:#1d5fd1; --accent-soft:#e3ecfb; --pip-off:#dde3ea; --warn:#b5530f; --warn-soft:#fdf0e6;
+  --good:#17703f; --good-soft:#e2f4e9; --bad:#b4232c; --bad-soft:#fbe7e8; --fit:#7a3fb8; --fit-soft:#f1e9fa;
   --display:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
   --body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
   --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
@@ -19,10 +20,10 @@
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
   --bg:#0e141b; --surface:#16202b; --ink:#e6edf3; --muted:#98a6b4; --line:#273544;
-  --accent:#6fa3ff; --accent-soft:#1a2c47; --pip-off:#2a3746; --warn:#f0a065; --warn-soft:#33241a; color-scheme:dark;}}
+  --accent:#6fa3ff; --accent-soft:#1a2c47; --pip-off:#2a3746; --warn:#f0a065; --warn-soft:#33241a; --good:#5fd08f; --good-soft:#15301f; --bad:#ff8a8f; --bad-soft:#3a1a1c; --fit:#c49bff; --fit-soft:#2a1f3a; color-scheme:dark;}}
 :root[data-theme="dark"]{
   --bg:#0e141b; --surface:#16202b; --ink:#e6edf3; --muted:#98a6b4; --line:#273544;
-  --accent:#6fa3ff; --accent-soft:#1a2c47; --pip-off:#2a3746; --warn:#f0a065; --warn-soft:#33241a; color-scheme:dark;}
+  --accent:#6fa3ff; --accent-soft:#1a2c47; --pip-off:#2a3746; --warn:#f0a065; --warn-soft:#33241a; --good:#5fd08f; --good-soft:#15301f; --bad:#ff8a8f; --bad-soft:#3a1a1c; --fit:#c49bff; --fit-soft:#2a1f3a; color-scheme:dark;}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 var(--body)}
 .wrap{max-width:1040px;margin:0 auto;padding:40px 20px 64px;display:flex;flex-direction:column;gap:40px}
@@ -86,23 +87,70 @@ dl{margin:0}
 .note{font-size:13px;color:var(--muted);max-width:75ch}
 .note a{color:var(--muted)}
 .src{font-size:13px;color:var(--muted);display:flex;flex-wrap:wrap;gap:4px 14px}
+
+.answer{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:22px;display:flex;flex-direction:column;gap:16px}
+.answer p{margin:0;max-width:75ch}
+.answer .big{font-size:18px}
+.answer .small,.lede{font-size:14px;color:var(--muted);margin:0;max-width:75ch}
+.funnel{display:flex;flex-wrap:wrap;align-items:center;gap:10px}
+.fstep{background:var(--accent-soft);border-radius:8px;padding:10px 16px;display:flex;flex-direction:column;min-width:130px}
+.fstep b{font:600 22px var(--mono);font-variant-numeric:tabular-nums}
+.fstep span{font-size:13px;color:var(--muted)}
+.fstep.hl2{background:var(--accent);color:var(--surface)}
+.fstep.hl2 span{color:var(--surface);opacity:.85}
+.farrow{font:600 15px var(--mono);color:var(--muted)}
+.pill{display:inline-block;padding:2px 10px;border-radius:99px;font-size:13px;font-weight:600}
+.pill.good{background:var(--good-soft);color:var(--good)}
+.pill.mid{background:var(--warn-soft);color:var(--warn)}
+.pill.bad{background:var(--bad-soft);color:var(--bad)}
+.models td:first-child{font-weight:600}
+.fitrank{background:var(--fit)}
+.fitcard .tag{color:var(--fit)}
+.fit{margin:0;font-size:15px;background:var(--fit-soft);border-radius:8px;padding:10px 12px}
+.verdict{margin:0;font-size:16px;max-width:75ch;border-left:3px solid var(--fit);padding-left:12px}
 </style>
 </head>
 <body>
 <main class="wrap">
   <div class="intro">
-    <h1>8 open-source businesses you can run on a few hours a week</h1>
-    <p>Each one ships a free open-source version that markets itself, and a paid version that is either a license key or a small, boring hosted service. Picked from 24 ideas, narrowed to 18 for a closer look.</p>
-    <div class="legend"><span><b>Score</b> 1–5 on four axes, max 20</span><span><b>€1,000 / month</b> = customers needed at the suggested price</span><span><b>Order</b> = score, then judgment: #1 needs no hosting and sells into GDPR demand</span></div>
+    <h1>Open-source businesses you can run on a few hours a week</h1>
+    <p>Each one ships a free open-source version that markets itself, and a paid version that is either a license key or a small, boring hosted service. Every pick has a free tier that stays free. Part 1 is the 8 strongest businesses. Part 2 is 6 ideas matched to your own interests.</p>
+    <div class="legend"><span><b>Score</b> 1–5 on four axes, max 20</span><span><b>€1,000 / month</b> = customers needed at the suggested price</span><span><b>Order</b> = score, then judgment: Part 1 #1 needs no hosting and sells into GDPR demand</span></div>
   </div>
 
+  <section aria-labelledby="h-free">
+    <h2 id="h-free">Can it stay free and still pay?</h2>
+    <div class="answer">
+      <p class="big"><b>Yes, with freemium.</b> Keep the tool free for individuals and hobby use. Charge at the point where a <em>business</em> hits a limit: more seats, more volume, private use, automation or an official report. Fully free with donations alone usually stays at hobby money.</p>
+      <div class="funnel" role="img" aria-label="Funnel: 3,000 free users, 3 percent convert, 90 paying at 11 euro, about 1,000 euro a month">
+        <div class="fstep"><b>3,000</b><span>active free users</span></div>
+        <div class="farrow">× 3%</div>
+        <div class="fstep"><b>90</b><span>paying customers</span></div>
+        <div class="farrow">× €11</div>
+        <div class="fstep hl2"><b>≈ €1,000</b><span>per month</span></div>
+      </div>
+      <p class="small">Developer tools typically convert 2–8% of active free users to paid. The higher end comes from clear limits such as seats, volume or private repos.</p>
+    </div>
+    <div class="tbl"><table class="models">
+      <thead><tr><th>Freemium model</th><th>Free part</th><th>Paid part</th><th>Real example</th><th>Pays well?</th></tr></thead>
+      <tbody>
+        <tr><td>Usage limit</td><td>Small volume</td><td>More checks, seats, submissions</td><td>Healthchecks.io: $18.3k / month</td><td><span class="pill good">Yes</span></td></tr>
+        <tr><td>Free for people, paid for companies</td><td>Personal and open-source use</td><td>Commercial license</td><td>Sidekiq Pro, BullMQ Pro</td><td><span class="pill good">Yes</span></td></tr>
+        <tr><td>Free to use, pay to export</td><td>Preview the result</td><td>Full report or file</td><td>Tax report tools</td><td><span class="pill good">Yes</span></td></tr>
+        <tr><td>Users free, organizers pay</td><td>Players, attendees</td><td>Per event or per team</td><td>Tournify: £35 per tournament</td><td><span class="pill mid">Medium</span></td></tr>
+        <tr><td>Free + hosted convenience</td><td>Self-host it yourself</td><td>Managed version</td><td>Plausible: $1M / year</td><td><span class="pill good">Yes</span></td></tr>
+        <tr><td>Free + sponsors or ads</td><td>Everything</td><td>Nothing; sponsors pay</td><td>mise: ~$500 / month in sponsors</td><td><span class="pill bad">Rarely</span></td></tr>
+      </tbody>
+    </table></div>
+  </section>
   <section aria-labelledby="h-summary">
-    <h2 id="h-summary">At a glance</h2>
+    <h2 id="h-summary">Part 1 at a glance: the 8 strongest businesses</h2>
     <div class="tbl"><table>
       <thead><tr><th>#</th><th>Idea</th><th class="num">Useful</th><th class="num">Build</th><th class="num">Maintain</th><th class="num">Profit</th><th class="num">Total</th><th>€1k / month =</th></tr></thead>
       <tbody><tr><td class="rk">1</td><td><a href="#pick-1">Database anonymizer CLI</a></td><td class="num">5</td><td class="num">3</td><td class="num">4</td><td class="num">4</td><td class="num tot">16</td><td class="mny">35 projects × €29</td></tr><tr><td class="rk">2</td><td><a href="#pick-2">Cron job heartbeat monitor</a></td><td class="num">5</td><td class="num">5</td><td class="num">4</td><td class="num">3</td><td class="num tot">17</td><td class="mny">50 teams × €20</td></tr><tr><td class="rk">3</td><td><a href="#pick-3">Pro add-on for a popular library</a></td><td class="num">4</td><td class="num">3</td><td class="num">5</td><td class="num">5</td><td class="num tot">17</td><td class="mny">12 companies × €999/yr</td></tr><tr><td class="rk">4</td><td><a href="#pick-4">EU e-invoice toolkit</a></td><td class="num">5</td><td class="num">3</td><td class="num">3</td><td class="num">5</td><td class="num tot">16</td><td class="mny">10 customers × €99</td></tr><tr><td class="rk">5</td><td><a href="#pick-5">Premium UI blocks</a></td><td class="num">4</td><td class="num">4</td><td class="num">4</td><td class="num">4</td><td class="num tot">16</td><td class="mny">7 sales per month</td></tr><tr><td class="rk">6</td><td><a href="#pick-6">Form backend for static sites</a></td><td class="num">4</td><td class="num">5</td><td class="num">4</td><td class="num">3</td><td class="num tot">16</td><td class="mny">~60 sites × €15 avg</td></tr><tr><td class="rk">7</td><td><a href="#pick-7">SaaS data backup to your own S3</a></td><td class="num">5</td><td class="num">3</td><td class="num">3</td><td class="num">4</td><td class="num tot">15</td><td class="mny">40 workspaces × €25</td></tr><tr><td class="rk">8</td><td><a href="#pick-8">GitHub App: free for public repos</a></td><td class="num">4</td><td class="num">4</td><td class="num">4</td><td class="num">3</td><td class="num tot">15</td><td class="mny">~250 seats (25 teams of 10)</td></tr></tbody>
     </table></div>
   </section>
+
 
   <section aria-labelledby="h-rules">
     <h2 id="h-rules">What the research says</h2>
@@ -115,13 +163,14 @@ dl{margin:0}
   </section>
 
   <section aria-labelledby="h-picks">
-    <h2 id="h-picks">The picks</h2>
+    <h2 id="h-picks">Part 1: the picks</h2>
     <div class="cards"><article class="card" id="pick-1">
 <header><span class="rank">1</span><div class="hd"><p class="tag">Recommended first bet</p><h3>Database anonymizer CLI</h3></div><div class="score"><b>16</b><span>/20</span></div></header>
 <p class="one">Copy your production database to staging, with names, emails and phone numbers scrambled.</p>
 <div class="grid2"><div class="bars"><div class="ax"><span class="axn">Useful</span><span class="pips" role="img" aria-label="5 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span><span class="axv">5</span></div><div class="ax"><span class="axn">Easy to build</span><span class="pips" role="img" aria-label="3 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i></span><span class="axv">3</span></div><div class="ax"><span class="axn">Easy to maintain</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div><div class="ax"><span class="axn">Profitable</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div></div>
 <dl class="kpi"><div><dt>Price</dt><dd>Pro €29/mo per project · Team €99/mo</dd></div><div><dt>€1,000 / month =</dt><dd class="hl">35 projects × €29</dd></div><div><dt>Who pays</dt><dd>Dev teams in the EU that handle personal data (GDPR)</dd></div></dl></div>
 <dl class="facts">
+<div><dt>Free tier</dt><dd>Unlimited local use, forever. Pay only for CI and team features.</dd></div>
 <div><dt>How it earns</dt><dd>Free CLI. Paid Pro license unlocks CI mode, consistent fake data across tables, and team presets.</dd></div>
 <div><dt>Proof</dt><dd>Enterprise test-data tools charge thousands per year. Small teams copy raw production data or write fragile scripts.</dd></div>
 <div><dt>Why upkeep stays low</dt><dd>Runs on the customer&#x27;s machine. You host nothing except a license check.</dd></div>
@@ -133,6 +182,7 @@ dl{margin:0}
 <div class="grid2"><div class="bars"><div class="ax"><span class="axn">Useful</span><span class="pips" role="img" aria-label="5 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span><span class="axv">5</span></div><div class="ax"><span class="axn">Easy to build</span><span class="pips" role="img" aria-label="5 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span><span class="axv">5</span></div><div class="ax"><span class="axn">Easy to maintain</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div><div class="ax"><span class="axn">Profitable</span><span class="pips" role="img" aria-label="3 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i></span><span class="axv">3</span></div></div>
 <dl class="kpi"><div><dt>Price</dt><dd>Free 20 checks · €8 / €20 / €80 per month</dd></div><div><dt>€1,000 / month =</dt><dd class="hl">50 teams × €20</dd></div><div><dt>Who pays</dt><dd>DevOps people, agencies, small SaaS</dd></div></dl></div>
 <dl class="facts">
+<div><dt>Free tier</dt><dd>20 checks free, forever. Self-hosting free.</dd></div>
 <div><dt>How it earns</dt><dd>Self-hosting is free. Hosted plans priced by number of checks.</dd></div>
 <div><dt>Proof</dt><dd>Healthchecks.io is open source and run by one person part-time: 825 paying accounts, $18.3k MRR (Feb 2026).</dd></div>
 <div><dt>Why upkeep stays low</dt><dd>Tiny data per check, one database, simple alert channels.</dd></div>
@@ -144,6 +194,7 @@ dl{margin:0}
 <div class="grid2"><div class="bars"><div class="ax"><span class="axn">Useful</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div><div class="ax"><span class="axn">Easy to build</span><span class="pips" role="img" aria-label="3 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i></span><span class="axv">3</span></div><div class="ax"><span class="axn">Easy to maintain</span><span class="pips" role="img" aria-label="5 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span><span class="axv">5</span></div><div class="ax"><span class="axn">Profitable</span><span class="pips" role="img" aria-label="5 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span><span class="axv">5</span></div></div>
 <dl class="kpi"><div><dt>Price</dt><dd>€99–999 per company per year</dd></div><div><dt>€1,000 / month =</dt><dd class="hl">12 companies × €999/yr</dd></div><div><dt>Who pays</dt><dd>Companies running the library in production</dd></div></dl></div>
 <dl class="facts">
+<div><dt>Free tier</dt><dd>The core library is free and open, forever.</dd></div>
 <div><dt>How it earns</dt><dd>Yearly commercial license for the Pro package (closed source, delivered from a private registry).</dd></div>
 <div><dt>Proof</dt><dd>Sidekiq: free core, paid Pro and Enterprise, one founder, reported revenue in the millions. BullMQ Pro reports ~$18k MRR.</dd></div>
 <div><dt>Why upkeep stays low</dt><dd>No hosting. Pro features are extras that rarely change.</dd></div>
@@ -155,6 +206,7 @@ dl{margin:0}
 <div class="grid2"><div class="bars"><div class="ax"><span class="axn">Useful</span><span class="pips" role="img" aria-label="5 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span><span class="axv">5</span></div><div class="ax"><span class="axn">Easy to build</span><span class="pips" role="img" aria-label="3 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i></span><span class="axv">3</span></div><div class="ax"><span class="axn">Easy to maintain</span><span class="pips" role="img" aria-label="3 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i></span><span class="axv">3</span></div><div class="ax"><span class="axn">Profitable</span><span class="pips" role="img" aria-label="5 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span><span class="axv">5</span></div></div>
 <dl class="kpi"><div><dt>Price</dt><dd>€49 / €99 / €299 per month by volume</dd></div><div><dt>€1,000 / month =</dt><dd class="hl">10 customers × €99</dd></div><div><dt>Who pays</dt><dd>Accounting apps, ERPs and SaaS that send invoices</dd></div></dl></div>
 <dl class="facts">
+<div><dt>Free tier</dt><dd>Library free. API free up to 100 invoices a month.</dd></div>
 <div><dt>How it earns</dt><dd>Free open-source library. Paid hosted API for validation, conversion and PDF rendering.</dd></div>
 <div><dt>Proof</dt><dd>Belgium made B2B e-invoicing mandatory in Jan 2026. Germany requires sending from 2027–28. France follows from 2026–27.</dd></div>
 <div><dt>Why upkeep stays low</dt><dd>Stateless conversion. No invoice storage required.</dd></div>
@@ -166,6 +218,7 @@ dl{margin:0}
 <div class="grid2"><div class="bars"><div class="ax"><span class="axn">Useful</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div><div class="ax"><span class="axn">Easy to build</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div><div class="ax"><span class="axn">Easy to maintain</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div><div class="ax"><span class="axn">Profitable</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div></div>
 <dl class="kpi"><div><dt>Price</dt><dd>€149 personal · €349 team</dd></div><div><dt>€1,000 / month =</dt><dd class="hl">7 sales per month</dd></div><div><dt>Who pays</dt><dd>Developers and agencies building web apps</dd></div></dl></div>
 <dl class="facts">
+<div><dt>Free tier</dt><dd>The base component kit is free.</dd></div>
 <div><dt>How it earns</dt><dd>One-time purchase with lifetime access to the paid packs.</dd></div>
 <div><dt>Proof</dt><dd>Tailwind Labs built a large business selling UI blocks next to a free framework.</dd></div>
 <div><dt>Why upkeep stays low</dt><dd>Static code. No servers, no user data.</dd></div>
@@ -177,6 +230,7 @@ dl{margin:0}
 <div class="grid2"><div class="bars"><div class="ax"><span class="axn">Useful</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div><div class="ax"><span class="axn">Easy to build</span><span class="pips" role="img" aria-label="5 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span><span class="axv">5</span></div><div class="ax"><span class="axn">Easy to maintain</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div><div class="ax"><span class="axn">Profitable</span><span class="pips" role="img" aria-label="3 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i></span><span class="axv">3</span></div></div>
 <dl class="kpi"><div><dt>Price</dt><dd>Free 50/mo · €9 / €29 per month</dd></div><div><dt>€1,000 / month =</dt><dd class="hl">~60 sites × €15 avg</dd></div><div><dt>Who pays</dt><dd>Static site owners, agencies, Jamstack developers</dd></div></dl></div>
 <dl class="facts">
+<div><dt>Free tier</dt><dd>50 submissions a month free. Self-hosting free.</dd></div>
 <div><dt>How it earns</dt><dd>Self-hosting is free. Hosted plans priced by monthly submissions.</dd></div>
 <div><dt>Proof</dt><dd>Formspree, Basin and Getform have been paid businesses for years.</dd></div>
 <div><dt>Why upkeep stays low</dt><dd>One endpoint, one table, one email provider.</dd></div>
@@ -188,6 +242,7 @@ dl{margin:0}
 <div class="grid2"><div class="bars"><div class="ax"><span class="axn">Useful</span><span class="pips" role="img" aria-label="5 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span><span class="axv">5</span></div><div class="ax"><span class="axn">Easy to build</span><span class="pips" role="img" aria-label="3 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i></span><span class="axv">3</span></div><div class="ax"><span class="axn">Easy to maintain</span><span class="pips" role="img" aria-label="3 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i></span><span class="axv">3</span></div><div class="ax"><span class="axn">Profitable</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div></div>
 <dl class="kpi"><div><dt>Price</dt><dd>€15 per workspace / mo · €49 business</dd></div><div><dt>€1,000 / month =</dt><dd class="hl">40 workspaces × €25</dd></div><div><dt>Who pays</dt><dd>Teams that can&#x27;t afford to lose repos or docs</dd></div></dl></div>
 <dl class="facts">
+<div><dt>Free tier</dt><dd>Self-hosting free. Hosted: 1 repo free.</dd></div>
 <div><dt>How it earns</dt><dd>Self-hosting is free. Hosted runner plans per workspace.</dd></div>
 <div><dt>Proof</dt><dd>Rewind bought BackHub, which shows companies pay for SaaS backup.</dd></div>
 <div><dt>Why upkeep stays low</dt><dd>Data goes to the customer&#x27;s bucket, not yours.</dd></div>
@@ -199,6 +254,7 @@ dl{margin:0}
 <div class="grid2"><div class="bars"><div class="ax"><span class="axn">Useful</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div><div class="ax"><span class="axn">Easy to build</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div><div class="ax"><span class="axn">Easy to maintain</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div><div class="ax"><span class="axn">Profitable</span><span class="pips" role="img" aria-label="3 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i></span><span class="axv">3</span></div></div>
 <dl class="kpi"><div><dt>Price</dt><dd>~€4 per seat per month</dd></div><div><dt>€1,000 / month =</dt><dd class="hl">~250 seats (25 teams of 10)</dd></div><div><dt>Who pays</dt><dd>Engineering teams</dd></div></dl></div>
 <dl class="facts">
+<div><dt>Free tier</dt><dd>Free on every public repository.</dd></div>
 <div><dt>How it earns</dt><dd>Per-seat billing through GitHub Marketplace. GitHub handles payments.</dd></div>
 <div><dt>Proof</dt><dd>Many Marketplace apps use this exact free-for-OSS, paid-for-private model.</dd></div>
 <div><dt>Why upkeep stays low</dt><dd>Stateless webhook handler. GitHub API changes are rare and announced.</dd></div>
@@ -207,12 +263,101 @@ dl{margin:0}
 </dl></article></div>
   </section>
 
+
+  <section aria-labelledby="h-fit">
+    <h2 id="h-fit">Part 2: picks that fit you</h2>
+    <p class="lede">Matched to the interests on your GitHub profile: ServiceNow, investing, volleyball, snowboarding and skiing, your portfolio site, and your icon work on devicon and SVG Recolor.</p>
+    <div class="tbl"><table>
+      <thead><tr><th>#</th><th>Idea</th><th class="num">Useful</th><th class="num">Build</th><th class="num">Maintain</th><th class="num">Profit</th><th class="num">Total</th><th>€1k / month =</th></tr></thead>
+      <tbody><tr><td class="rk">A</td><td><a href="#fit-1">ServiceNow developer toolkit</a></td><td class="num">5</td><td class="num">3</td><td class="num">4</td><td class="num">4</td><td class="num tot">16</td><td class="mny">~70 seats (7 consultancies of 10)</td></tr><tr><td class="rk">B</td><td><a href="#fit-2">Norwegian investor tax helper</a></td><td class="num">5</td><td class="num">3</td><td class="num">3</td><td class="num">4</td><td class="num tot">15</td><td class="mny">~300 reports a year (≈ €12k / yr)</td></tr><tr><td class="rk">C</td><td><a href="#fit-3">Beach volleyball tournament organizer</a></td><td class="num">4</td><td class="num">3</td><td class="num">4</td><td class="num">3</td><td class="num tot">14</td><td class="mny">~35 events of 20 teams</td></tr><tr><td class="rk">D</td><td><a href="#fit-4">Powder alert for Norway</a></td><td class="num">4</td><td class="num">4</td><td class="num">4</td><td class="num">2</td><td class="num tot">14</td><td class="mny">~600 season passes a year</td></tr><tr><td class="rk">E</td><td><a href="#fit-5">Git-CMS website kit for consultants</a></td><td class="num">3</td><td class="num">4</td><td class="num">4</td><td class="num">3</td><td class="num tot">14</td><td class="mny">~12 sales a month</td></tr><tr><td class="rk">F</td><td><a href="#fit-6">SVG icon toolkit</a></td><td class="num">3</td><td class="num">5</td><td class="num">5</td><td class="num">2</td><td class="num tot">15</td><td class="mny">~200 monthly or ~20 lifetime sales a month</td></tr></tbody>
+    </table></div>
+    <p class="verdict"><b>Best two for you:</b> A (ServiceNow toolkit) for the money, because companies pay for it. B (tax helper) for a tool you'd use yourself every spring. C–F are good side projects that bring in less.</p>
+    <div class="cards"><article class="card fitcard" id="fit-1">
+<header><span class="rank fitrank">A</span><div class="hd"><p class="tag">Fits: your ServiceNow learning + consulting</p><h3>ServiceNow developer toolkit</h3></div><div class="score"><b>16</b><span>/20</span></div></header>
+<p class="one">A VS Code extension for ServiceNow work: Glide API autocomplete, linting, script sync and ATF test scaffolding.</p>
+<p class="fit"><b>Why you:</b> You&#x27;re learning ServiceNow and work as a consultant: you meet the buyers every day.</p>
+<div class="grid2"><div class="bars"><div class="ax"><span class="axn">Useful</span><span class="pips" role="img" aria-label="5 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span><span class="axv">5</span></div><div class="ax"><span class="axn">Easy to build</span><span class="pips" role="img" aria-label="3 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i></span><span class="axv">3</span></div><div class="ax"><span class="axn">Easy to maintain</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div><div class="ax"><span class="axn">Profitable</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div></div>
+<dl class="kpi"><div><dt>Price</dt><dd>€8 / month solo Pro · €15 / seat team</dd></div><div><dt>€1,000 / month =</dt><dd class="hl">~70 seats (7 consultancies of 10)</dd></div><div><dt>Who pays</dt><dd>ServiceNow consultancies and enterprise platform teams</dd></div></dl></div>
+<dl class="facts">
+<div><dt>Free tier</dt><dd>Free for individual developers, forever.</dd></div>
+<div><dt>How it earns</dt><dd>Team plan for consultancies and in-house platform teams: shared snippets, rule presets, AI helpers.</dd></div>
+<div><dt>Proof</dt><dd>SN Utils, the most-used free ServiceNow extension, added a paid Pro tier with team sharing. ServiceNow customers are large enterprises with tool budgets.</dd></div>
+<div><dt>Why upkeep stays low</dt><dd>Runs in the developer&#x27;s editor. You host only licensing and sync.</dd></div>
+<div class="warn"><dt>Main risk</dt><dd>Two ServiceNow releases a year, and SN Utils is a strong free rival. Pick a gap it doesn&#x27;t cover, like linting or types.</dd></div>
+<div><dt>Version 1</dt><dd>Type definitions for the top Glide APIs and 20 lint rules for common ServiceNow mistakes.</dd></div>
+</dl></article><article class="card fitcard" id="fit-2">
+<header><span class="rank fitrank">B</span><div class="hd"><p class="tag">Fits: investing</p><h3>Norwegian investor tax helper</h3></div><div class="score"><b>15</b><span>/20</span></div></header>
+<p class="one">Import trades from Interactive Brokers, Degiro or Nordnet. Get the exact numbers to type into the tax return, in NOK.</p>
+<p class="fit"><b>Why you:</b> You follow investing. The tool you&#x27;d use yourself each spring is the product.</p>
+<div class="grid2"><div class="bars"><div class="ax"><span class="axn">Useful</span><span class="pips" role="img" aria-label="5 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span><span class="axv">5</span></div><div class="ax"><span class="axn">Easy to build</span><span class="pips" role="img" aria-label="3 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i></span><span class="axv">3</span></div><div class="ax"><span class="axn">Easy to maintain</span><span class="pips" role="img" aria-label="3 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i></span><span class="axv">3</span></div><div class="ax"><span class="axn">Profitable</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div></div>
+<dl class="kpi"><div><dt>Price</dt><dd>€39 per tax year · €99 for accountants (10 clients)</dd></div><div><dt>€1,000 / month =</dt><dd class="hl">~300 reports a year (≈ €12k / yr)</dd></div><div><dt>Who pays</dt><dd>Norwegians with foreign brokers or many trades</dd></div></dl></div>
+<dl class="facts">
+<div><dt>Free tier</dt><dd>Free preview of gains, losses and dividends for any year.</dd></div>
+<div><dt>How it earns</dt><dd>Pay once per tax year to unlock the full report and line-by-line filing guide.</dd></div>
+<div><dt>Proof</dt><dd>Norwegian crypto tax tools already charge per tax year. Foreign brokers can&#x27;t help with Norwegian filing, so investors do it by hand.</dd></div>
+<div><dt>Why upkeep stays low</dt><dd>One rules update a year. Runs in the browser, so trade data can stay on the user&#x27;s machine.</dd></div>
+<div class="warn"><dt>Main risk</dt><dd>Mistakes cost users money. Add clear disclaimers and test against real returns.</dd></div>
+<div><dt>Version 1</dt><dd>IBKR CSV import, FIFO matching, Norges Bank exchange rates, a summary per share.</dd></div>
+</dl></article><article class="card fitcard" id="fit-3">
+<header><span class="rank fitrank">C</span><div class="hd"><p class="tag">Fits: volleyball</p><h3>Beach volleyball tournament organizer</h3></div><div class="score"><b>14</b><span>/20</span></div></header>
+<p class="one">Sign-ups, pools, brackets, King of the Beach rotations and live scores on a phone.</p>
+<p class="fit"><b>Why you:</b> You play indoor and beach volleyball, so you know the organizers&#x27; pain firsthand.</p>
+<div class="grid2"><div class="bars"><div class="ax"><span class="axn">Useful</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div><div class="ax"><span class="axn">Easy to build</span><span class="pips" role="img" aria-label="3 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i></span><span class="axv">3</span></div><div class="ax"><span class="axn">Easy to maintain</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div><div class="ax"><span class="axn">Profitable</span><span class="pips" role="img" aria-label="3 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i></span><span class="axv">3</span></div></div>
+<dl class="kpi"><div><dt>Price</dt><dd>€1.50 per team, or €29 per event</dd></div><div><dt>€1,000 / month =</dt><dd class="hl">~35 events of 20 teams</dd></div><div><dt>Who pays</dt><dd>Clubs, beach volleyball series, company events</dd></div></dl></div>
+<dl class="facts">
+<div><dt>Free tier</dt><dd>Free for players. Free for events up to 8 teams.</dd></div>
+<div><dt>How it earns</dt><dd>Organizers pay per tournament, or a small fee on online registration payments.</dd></div>
+<div><dt>Proof</dt><dd>Tournify charges £35 per tournament; R2 Sports charges $30 per tournament + $5 per team.</dd></div>
+<div><dt>Why upkeep stays low</dt><dd>Events are short-lived. Little data to keep.</dd></div>
+<div class="warn"><dt>Main risk</dt><dd>Seasonal (summer outdoors, winter indoors). Official federation events may use their own system.</dd></div>
+<div><dt>Version 1</dt><dd>Pool play + bracket generator with a public live-score page.</dd></div>
+</dl></article><article class="card fitcard" id="fit-4">
+<header><span class="rank fitrank">D</span><div class="hd"><p class="tag">Fits: snowboarding, skiing, nature</p><h3>Powder alert for Norway</h3></div><div class="score"><b>14</b><span>/20</span></div></header>
+<p class="one">Pick your favourite resorts and touring spots. Get a push alert when fresh snow is coming, with avalanche danger alongside.</p>
+<p class="fit"><b>Why you:</b> Snowboarding, skiing and snowskating are your winter. You&#x27;d be user number one.</p>
+<div class="grid2"><div class="bars"><div class="ax"><span class="axn">Useful</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div><div class="ax"><span class="axn">Easy to build</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div><div class="ax"><span class="axn">Easy to maintain</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div><div class="ax"><span class="axn">Profitable</span><span class="pips" role="img" aria-label="2 out of 5"><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i><i class=""></i></span><span class="axv">2</span></div></div>
+<dl class="kpi"><div><dt>Price</dt><dd>€19 per season · €3 / month</dd></div><div><dt>€1,000 / month =</dt><dd class="hl">~600 season passes a year</dd></div><div><dt>Who pays</dt><dd>Skiers, snowboarders and ski tourers in Norway</dd></div></dl></div>
+<dl class="facts">
+<div><dt>Free tier</dt><dd>Free for one area, forever.</dd></div>
+<div><dt>How it earns</dt><dd>Season pass for unlimited areas and alerts, plus affiliate links for lift passes and gear.</dd></div>
+<div><dt>Proof</dt><dd>MET Norway&#x27;s weather API is free for commercial use (CC BY 4.0). Varsom publishes avalanche forecasts as public data.</dd></div>
+<div><dt>Why upkeep stays low</dt><dd>Reads two public APIs on a schedule. No user content to moderate.</dd></div>
+<div class="warn"><dt>Main risk</dt><dd>Consumers pay little and only in winter. Check Varsom data terms before launch.</dd></div>
+<div><dt>Version 1</dt><dd>Snowfall forecast per saved spot with a daily email when it passes a threshold.</dd></div>
+</dl></article><article class="card fitcard" id="fit-5">
+<header><span class="rank fitrank">E</span><div class="hd"><p class="tag">Fits: your portfolio goal</p><h3>Git-CMS website kit for consultants</h3></div><div class="score"><b>14</b><span>/20</span></div></header>
+<p class="one">A SvelteKit + Sveltia CMS site kit for consultants and freelancers: portfolio, CV, case studies, blog.</p>
+<p class="fit"><b>Why you:</b> Your portfolio website has been a goal since 2023. Ship it and sell the template.</p>
+<div class="grid2"><div class="bars"><div class="ax"><span class="axn">Useful</span><span class="pips" role="img" aria-label="3 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i></span><span class="axv">3</span></div><div class="ax"><span class="axn">Easy to build</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div><div class="ax"><span class="axn">Easy to maintain</span><span class="pips" role="img" aria-label="4 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span><span class="axv">4</span></div><div class="ax"><span class="axn">Profitable</span><span class="pips" role="img" aria-label="3 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i></span><span class="axv">3</span></div></div>
+<dl class="kpi"><div><dt>Price</dt><dd>€59 per theme · €149 all themes</dd></div><div><dt>€1,000 / month =</dt><dd class="hl">~12 sales a month</dd></div><div><dt>Who pays</dt><dd>Freelancers, consultants, developers</dd></div></dl></div>
+<dl class="facts">
+<div><dt>Free tier</dt><dd>The base theme is free and open source.</dd></div>
+<div><dt>How it earns</dt><dd>Paid premium themes and a one-click deploy to Cloudflare or Netlify.</dd></div>
+<div><dt>Proof</dt><dd>Theme and template marketplaces sell steadily. Sveltia CMS gives a Git-based CMS with no server to run.</dd></div>
+<div><dt>Why upkeep stays low</dt><dd>Static sites. No hosting on your side.</dd></div>
+<div class="warn"><dt>Main risk</dt><dd>Templates compete on design. Your SvelteKit skills help, the market is busy.</dd></div>
+<div><dt>Version 1</dt><dd>Your own portfolio, cleaned up as the first theme.</dd></div>
+</dl></article><article class="card fitcard" id="fit-6">
+<header><span class="rank fitrank">F</span><div class="hd"><p class="tag">Fits: devicon + SVG Recolor</p><h3>SVG icon toolkit</h3></div><div class="score"><b>15</b><span>/20</span></div></header>
+<p class="one">Recolor, theme and batch-export icon sets for light and dark mode, in the browser, CLI or a Figma plugin.</p>
+<p class="fit"><b>Why you:</b> You maintain devicon and built SVG Recolor. You have the skills and a head start.</p>
+<div class="grid2"><div class="bars"><div class="ax"><span class="axn">Useful</span><span class="pips" role="img" aria-label="3 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i></span><span class="axv">3</span></div><div class="ax"><span class="axn">Easy to build</span><span class="pips" role="img" aria-label="5 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span><span class="axv">5</span></div><div class="ax"><span class="axn">Easy to maintain</span><span class="pips" role="img" aria-label="5 out of 5"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span><span class="axv">5</span></div><div class="ax"><span class="axn">Profitable</span><span class="pips" role="img" aria-label="2 out of 5"><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i><i class=""></i></span><span class="axv">2</span></div></div>
+<dl class="kpi"><div><dt>Price</dt><dd>€5 / month · €49 lifetime</dd></div><div><dt>€1,000 / month =</dt><dd class="hl">~200 monthly or ~20 lifetime sales a month</dd></div><div><dt>Who pays</dt><dd>Designers and front-end developers</dd></div></dl></div>
+<dl class="facts">
+<div><dt>Free tier</dt><dd>Web tool free, forever.</dd></div>
+<div><dt>How it earns</dt><dd>Pro unlocks batch export, CLI and Figma plugin.</dd></div>
+<div><dt>Proof</dt><dd>Your SVG Recolor and devicon work already reach this audience.</dd></div>
+<div><dt>Why upkeep stays low</dt><dd>Pure client-side code. Nothing to host.</dd></div>
+<div class="warn"><dt>Main risk</dt><dd>Low price ceiling. Best as an audience-builder that leads people to your other tools.</dd></div>
+<div><dt>Version 1</dt><dd>Build SVG Recolor Pro: batch upload, theme presets, zip export.</dd></div>
+</dl></article></div>
+  </section>
   <section aria-labelledby="h-run">
     <h2 id="h-run">Also considered</h2>
     <ul class="runners"><li><span>OG / social image generator</span><span class="rs">15</span><span class="why">Low price ceiling</span></li><li><span>Static status page</span><span class="rs">15</span><span class="why">Free Upptime competes</span></li><li><span>Changelog widget</span><span class="rs">15</span><span class="why">Low willingness to pay</span></li><li><span>SaaS starter kit</span><span class="rs">15</span><span class="why">Dependencies age fast</span></li><li><span>HTML → PDF API</span><span class="rs">14</span><span class="why">Headless Chrome upkeep</span></li><li><span>Editor plugin Pro</span><span class="rs">14</span><span class="why">Low prices</span></li><li><span>LLM cost proxy</span><span class="rs">15</span><span class="why">AI APIs change monthly</span></li><li><span>Niche MCP server</span><span class="rs">13</span><span class="why">Spec still moving</span></li><li><span>Screenshot API</span><span class="rs">13</span><span class="why">Browser fleet, abuse</span></li><li><span>Webhook inspector</span><span class="rs">13</span><span class="why">Storing others&#x27; data</span></li></ul>
   </section>
 
-  <p class="note">Revenue figures are self-reported or from third-party blogs. E-invoicing dates differ between sources, especially for France; check the national tax authority before building on a date.</p>
+  <p class="note">Revenue figures are self-reported or from third-party blogs. E-invoicing dates differ between sources, especially for France; check the national tax authority before building on a date. The tax helper and powder alert need their data sources and rules checked (Skatteetaten, Varsom terms) before launch.</p>
   <div class="src">
     <a href="https://healthchecks.io/about">Healthchecks.io metrics</a>
     <a href="https://en.wikipedia.org/wiki/Sidekiq">Sidekiq</a>
@@ -223,6 +368,12 @@ dl{margin:0}
     <a href="https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/">mise sponsor numbers</a>
     <a href="https://www.fonoa.com/resources/blog/peppol-adoption-europe-2026-mandates-vida">Peppol in Europe 2026</a>
     <a href="https://www.vatcalc.com/?p=27567">Belgium e-invoicing</a>
+    <a href="https://www.artisangrowthstrategies.com/blog/freemium-conversion-rate-benchmarks">Freemium conversion benchmarks</a>
+    <a href="https://addons.mozilla.org/firefox/addon/servicenow-utils2">SN Utils (Pro tier)</a>
+    <a href="https://tournify.uk/sports/volleyball">Tournify pricing</a>
+    <a href="https://www.r2sports.com/cartProducts/sand-volleyball-tournament-software.asp">R2 Sports pricing</a>
+    <a href="https://docs.api.met.no/doc/FAQ">MET Norway API terms</a>
+    <a href="https://www.varsom.no/media/1648/fakta_varsom_en.pdf">Varsom fact sheet</a>
   </div>
 </main>
 </body>
